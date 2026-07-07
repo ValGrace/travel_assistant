@@ -1,0 +1,14 @@
+[project]
+name = "travel"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "certifi>=2026.6.17",
+    "fastapi>=0.139.0",
+    "jinja2>=3.1.6",
+    "requests>=2.34.2",
+    "uvicorn>=0.50.0",
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Africa RAG Template</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+  <main class="hero-shell" aria-label="Travel Africa trip planning assistant landing page">
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="Travel Africa home">Travel Africa<span></span></a>
+
+      <nav class="top-actions" aria-label="User preferences">
+        <button class="pill-control" type="button">KSh <span aria-hidden="true">⌄</span></button>
+        <button class="pill-control lang" type="button"><span class="flag" aria-hidden="true"></span> EN <span aria-hidden="true">⌄</span></button>
+        <button class="profile-control" type="button" aria-label="Open profile menu">
+          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80" alt="Smiling traveler profile">
+          <span aria-hidden="true">⌄</span>
+        </button>
+      </nav>
+    </header>
+
+    <section class="hero-grid">
+      <div class="hero-copy">
+        <h1>Hey explorer,<br>where are we<br>going today?</h1>
+        <span class="spark spark-one" aria-hidden="true"></span>
+        <span class="spark spark-two" aria-hidden="true"></span>
+        <span class="spark spark-three" aria-hidden="true"></span>
+
+        <p>Discover Kenya &amp; East Africa with live prices<br>and expert trip planning.</p>
+
+        <form class="prompt-card" action="#" method="get" aria-label="Trip planning prompt">
+          <label class="sr-only" for="travel-prompt">Describe your ideal trip</label>
+          <input id="travel-prompt" name="prompt" type="text" value="6 days in Kenya: safari, coast, culture">
+          <div class="prompt-tools" aria-label="Prompt tools">
+            <button type="button" aria-label="Attach a file">⌕</button>
+            <button type="button" aria-label="Use voice input">♩</button>
+            <button class="send" type="submit" aria-label="Send prompt">➤</button>
+          </div>
+        </form>
+
+        <div class="quick-actions" aria-label="Suggested prompts">
+          <button type="button"><span aria-hidden="true">▣</span>Create a new trip</button>
+          <button type="button"><span aria-hidden="true">🌴</span>Explore Kenya</button>
+          <button type="button"><span aria-hidden="true">♣</span>Plan a safari</button>
+          <button type="button"><span aria-hidden="true">▲</span>East Africa escapes</button>
+        </div>
+
+        <a class="help-link" href="#features">See how I can help you <span aria-hidden="true">↓</span></a>
+      </div>
+
+      <div class="photo-collage" aria-label="Kenya and East Africa destination collage">
+        <figure class="blob blob-safari">
+          <img src="https://images.unsplash.com/photo-1547970810-dc1eac37d174?auto=format&fit=crop&w=1000&q=85" alt="Elephants walking across an East African savanna with a mountain in the distance">
+        </figure>
+        <figure class="blob blob-coast">
+          <img src="https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=900&q=85" alt="Turquoise East African coastline with palms and a beach cottage">
+        </figure>
+        <figure class="blob blob-lake">
+          <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=85" alt="Blue lake surrounded by lush green hills and bright flowers">
+        </figure>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
