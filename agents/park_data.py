@@ -41,3 +41,4 @@ for tag in soup.find_all("div", class_="fusion-clearfix", attrs={'aria-labelledb
         accommodations[hotel_name] = href
 
 print(accommodations)
+
