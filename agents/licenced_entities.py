@@ -1,7 +1,7 @@
-import requests
+import requests, json
 from bs4 import BeautifulSoup
 
-url = "https://tra.go.ke/licencing-2/list-of-entities"
+url = "https://web.archive.org/web/20260313055117/https://tra.go.ke/licensing-2/list-of-entities/"
 
 headers = {"User-Agent": "Mozilla/5.0 (research data collection)"}
 
@@ -19,13 +19,11 @@ for tag in soup.find_all("table", class_="tablepress-id-3"):
         if cols:
             row_dict = {
                 "file_number": cols[0].get_text(strip=True),
-                "class": cols[1].get_text(strip=True),
-                "company_name": cols[2].get_text(strip=True),
-                "location": cols[3].get_text(strip=True),
-                "county": cols[4].get_text(strip=True),
-                "town": cols[5].get_text(strip=True),
-                "service_name": cols[6].get_text(strip=True),
-            }
+                "company_name": cols[1].get_text(strip=True),
+                "town": cols[2].get_text(strip=True),
+                "service_category_name": cols[3].get_text(strip=True),
+                        }
             rows_data.append(row_dict)
 
-print(rows_data)
+with open("data/raw_data/entities.json", "w") as f:
+        json.dump(rows_data, f, indent=4)
