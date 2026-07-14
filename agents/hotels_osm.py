@@ -8,8 +8,8 @@ def extract():
             area(3600192798)->.kenya;
             area["ISO3166-1"="KE"][admin_level=2]->.searchArea;
             (
-            node["tourism"="camp_site"](area.searchArea);
-            way["tourism"="camp_site"](area.searchArea);
+            node["tourism"="hotel"](area.searchArea);
+            way["tourism"="hotel"](area.searchArea);
             );
             out center tags;
    
@@ -24,6 +24,7 @@ def extract():
         osm_data = r.json()
         print(f"Found {len(osm_data['elements'])} elements")
         osm_campsites = []
+        osm_urls = []
         for elem in osm_data['elements']:
             if "lat" in elem:
                 lat, lng = elem["lat"], elem["lon"]
@@ -32,36 +33,19 @@ def extract():
             else:
                 continue
             osm_campsites.append({
-                "camp_name": elem.get("tags", {}).get("name", "Unknown"),
-                "phone": elem.get("tags", {}).get("phone", ""),
-                "tourism": elem.get("tags", {}).get("tourism", ""),
-                "website": elem.get("tags", {}).get("website", ""),
-                "city": elem.get("tags", {}).get("addr:city", ""),
-                "street": elem.get("tags", {}).get("addr:street", ""),
-                "email": elem.get("tags", {}).get("email", ""),
-                "rating": elem.get("tags", {}).get("stars", "no rating"),
-                "amenities": {
-                    "internet_access": elem.get("tags", {}).get("internet_access", "unspecified"),
-                    "tents": elem.get("tags", {}).get("tents", ""),
-                    "cabins": elem.get("tags", {}).get("cabins", ""),
-                    "openfire": elem.get("tags", {}).get("openfire", ""),
-                    "toilets": elem.get("tags", {}).get("toilets", ""),
-                    "smoking": elem.get("tags", {}).get("smoking", ""),
-                    "drinking_water": elem.get("tags", {}).get("drinking_water", ""),
-                    "amenity": elem.get("tags", {}).get("amenity", ""),
-                    "power_supply": elem.get("tags", {}).get("power_supply", "not specified"),
-                    "caravans": elem.get("tags", {}).get("caravans", ""),
-                   
-                },
+                "metadata": elem.get("tags", {}),
                 "lat": lat,
                 "lng": lng,
                 "source": "osm"
             })
-        with open("data/raw_data/kenyan_campsites.json", "w") as f:
-            json.dump(osm_campsites, f, indent=4)
+            website = elem.get("tags", {}).get("website", "")
+            if website:
+                osm_urls.append(website)
+        # with open("data/raw_data/kenyan_hotels.json", "w") as f:
+        #     json.dump(osm_campsites, f, indent=4)
 
-        print(osm_data)
-
+        print(osm_urls)
+        return osm_urls
     
     scrape_osm()
 
