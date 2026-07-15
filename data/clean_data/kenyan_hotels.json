@@ -188,27 +188,6 @@
             "name": "Insomnia Bar and lounge",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -1.2643036,
         "lng": 36.8100102,
         "source": "osm"
@@ -221,27 +200,7 @@
             "name": "Parklands Shade Hotel K1 Clubhouse",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+        
         "lat": -1.2685831,
         "lng": 36.8112842,
         "source": "osm"
@@ -284,27 +243,6 @@
             "name": "Sagret Hotel Equatorial",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -1.2890001,
         "lng": 36.8042077,
         "source": "osm"
@@ -319,27 +257,7 @@
             "phone": "+254 711 091000",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+        
         "lat": -1.329029,
         "lng": 36.8559302,
         "source": "osm"
@@ -385,27 +303,7 @@
             "wikidata": "Q5101048",
             "wikipedia": "en:Chingwede"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+        
         "lat": -4.5032153,
         "lng": 39.4498794,
         "source": "osm"
@@ -421,28 +319,7 @@
             "tourism": "hotel",
             "website": "https://www.windsorgolfresort.com/"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
-        "lat": -1.2101137,
+         "lat": -1.2101137,
         "lng": 36.8512283,
         "source": "osm"
     },
@@ -453,27 +330,7 @@
             "name": "China Garden",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+         
         "lat": -1.2325571,
         "lng": 36.8121549,
         "source": "osm"
@@ -485,27 +342,7 @@
             "name": "Wasini Luxury Homes",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+         
         "lat": -1.2616151,
         "lng": 36.7881205,
         "source": "osm"
@@ -516,27 +353,7 @@
             "name": "Voi-Safari Lodge",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+         
         "lat": -3.346723,
         "lng": 38.566727,
         "source": "osm"
@@ -544,29 +361,15 @@
     {
         "metadata": {
             "name": "Mara Sopa Lodge",
-            "tourism": "hotel"
+            "tourism": "hotel",
+            "rooms": "99"
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+            "type": "Cottages",
+            "description": "Electronic safes, dressing tables, en-suite bathrooms, sheltered varandasz"
+           
+            } ],
         "lat": -1.5923946,
         "lng": 35.391375,
         "source": "osm"
@@ -576,27 +379,7 @@
             "name": "Amboseli Lodge",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+        
         "lat": -2.7371334,
         "lng": 37.371028,
         "source": "osm"
@@ -616,22 +399,29 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Villa 3 Bedroom",
+            "description": "Room Service, Beachfront, game room, fitness center"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Cottage, Sea View",
+            "description": "Room Service, Beachfront, game room, fitness center"
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Suite, Sea View",
+            "description": "Soothing ambience, charming countryside suite"
+            },
+            {
+            "type": "Deluxe, Terrace",
+            "description": "Room Service, Beachfront, game room, fitness center"
+            },
+            {
+            "type": "Villa 2 Bedroom",
+            "description": "Room Service, Beachfront, game room, fitness center"
+            },
+            {
+            "type": "Superior, Balcony",
+            "description": "Room Service, Beachfront, game room, fitness center"
+            
             }
 
         ],
@@ -647,22 +437,17 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Double or Twin Room - Lodge",
+            "description": "Rustic meets modern in our spacious Lodge Rooms, each with a private balcony overlooking a spectacular slice of the Great Rift Valley. Large four-poster beds, hand-made wooden furniture and modern en-suite bathrooms make for an ultra-comfortable stay. Some Lodge Rooms have interconnecting doors, ideal for families and groups."
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Executive Double Room",
+            "description": "1 Extra large double bed"
+            
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Twin Villa",
+            "description": "2 single beds"
             }
 
         ],
@@ -777,22 +562,20 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Standard Room",
+            "description": "You will be surprised by how spacious our standard rooms are. Some of them have one queen bed while others come complete with two beds.We are flexible enough to customize this setup based on your needs. In addition, you can curl up infront of the fire place to warm you up ready for sleep."
             },
             {
             "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "description": "They are well designed to provide you with the utmost comfort at all times and promotes privacy as you can drive in and park right outside your room. You'll enjoy the same great amenities; fireplace, sitting area, coffee tray, free wifi and a cozy clean bed."
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Drive-In Cottages",
+            "description": "Built in the 1930's by English Settlers, the original cottages still stand with their unique architecture maintained to modern standards. They are surrounded by well manicured and mature gardens, this two roomed suite features a spacious lounge that is perfect for families or business travelers who will definitely adore the extra space."
+            },
+            {
+                "type": "HoneyMoon Room",
+                "description": "Allow us to create memories that last for you and your newly found love in our special and luxurious suite. The suite boasts a king size bed, fireplace, coffee tray and complimentary wine. Retreat to the hot tub for a well deserved hydrotherapy as you celebrate the beginning of your beautiful union."
             }
 
         ],
@@ -808,22 +591,61 @@
         },
          "rooms": [
             {
-            "type": "Superior",
+            "type": "Crew Wing",
             "description": "One Kings Bed",
             "currency": "USD",
-            "price_per_person": "87.50"
+            "price_per_person": [
+                {
+                    "type": "Single",
+                    "price_per_person": "180"
+                },
+                {
+                    "type": "Double",
+                    "price_per_person": "210"
+                },
+                {
+                    "type": "Day Room",
+                    "price_per_person": "105"
+                }
+            ]
             },
             {
-            "type": "Deluxe Room",
+            "type": "Pilot Wing",
             "description": "Quaint decor, high speed internet, TV, hairdryer",
             "currency": "USD",
-            "price_per_person": "97.50"
+            "price_per_person": [
+                {
+                    "type": "Single",
+                    "price_per_person": "200"
+                },
+                {
+                    "type": "Double",
+                    "price_per_person": "240"
+                },
+                {
+                    "type": "Day Room",
+                    "price_per_person": "120"
+                }
+            ]
             },
             {
-            "type": "Junior Suite",
+            "type": "Captain Wing",
             "description": "Soothing ambience, charming countryside suite",
             "currency": "USD",
-            "price_per_person": "125.50"
+            "price_per_person": [
+                {
+                    "type": "Single",
+                    "price_per_person": "230"
+                },
+                {
+                    "type": "Double",
+                    "price_per_person": "270"
+                },
+                {
+                    "type": "Day Room",
+                    "price_per_person": "135"
+                }
+            ]
             }
 
         ],
@@ -840,22 +662,23 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
+            "type": "Standard Room",
+            "description": "Our Standard Room with a choice of a King or twin bed is an ultimate oasis for comfort and relaxation.",
             "currency": "USD",
-            "price_per_person": "87.50"
+            "amenities": ["sitting area", "balcony", "satellite TV", "alarm clock", "coffee maker", "mini bar", "safe box", "shower"],
+            "price_from": "324"
             },
             {
-            "type": "Deluxe Room",
+            "type": "Executive Room",
             "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "amenities": ["sitting area", "balcony", "satellite TV", "alarm clock", "coffee maker", "mini bar", "safe box", "shower"],
+            "price_from": "324"
             },
             {
-            "type": "Junior Suite",
+            "type": "Presidential Cottage",
             "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "amenities": ["sitting area", "balcony", "satellite TV", "alarm clock", "coffee maker", "mini bar", "safe box", "shower"],
+            "price_from": "324"
             }
 
         ],
@@ -873,22 +696,22 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Luxury Tent",
+            "description": "The Luxury Tents offer a perfect blend of comfort and immersion in nature. Each tent is designed with handmade wooden furniture in a traditional African style, providing an authentic and cozy atmosphere. With a private veranda, you’ll enjoy breathtaking views of the surrounding savanna, where wildlife roams freely. Each tent comes with an en-suite bathroom, running hot and cold water, and a shower, ensuring a comfortable stay while still experiencing the wild beauty of Tsavo. The tents are ideal for those seeking an intimate connection with nature without compromising on comfort.",
+            "currency": "KES",
+            "price_from": "169"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Executive Suite",
+            "description": "The Executive Suites, Kibo and Mawenzi, offer an elevated safari experience with stunning views of Mount Kilimanjaro and the vast savanna of Tsavo. Each suite features a raised observation deck with sun loungers, perfect for relaxing while taking in the breathtaking landscape. Inside, the spacious suite is fitted with a king-size bed, luxurious tent canvas, and a corner bathtub for added comfort. Families can enjoy the option of an adjacent connecting Luxury Tent, making the suite ideal for larger groups or those seeking extra space. The connecting Luxury Tent is available for an additional charge and must be booked separately. Guests booking the Executive Suite also benefit from complimentary tea and coffee-making facilities, as well as a first-fill minibar.",
+            "currency": "KES",
+            "price_from": "263"
             },
             {
             "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "description": "The Junior Suites provide extra space and comfort, perfect for families or couples seeking a more luxurious safari experience. Each suite features a separate lounge area and a private courtyard with an outdoor shower, offering privacy and a connection to nature. The spacious bathrooms include double washbasins and large windows that let in natural light, enhancing the tranquil ambiance. From your private sun deck, enjoy the beauty of the African wilderness, and relax in the serene surroundings. The suite includes a 1.40m couch and a foldable bed, making it suitable for children or, in total, a comfortable family room. These suites offer the perfect blend of luxury and nature, ensuring an unforgettable stay in the heart of Tsavo.",
+            "currency": "KES",
+            "price_from": "232"
             }
 
         ],
@@ -903,24 +726,10 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Suites",
+            "description": "The Lodge and the rooms are designed in an African architectural style with beautiful animal carvings in the pillars and furniture – blending perfectly together with its surroundings.",
+            "amenities": ["twin beds", "en-suite bathroom", "closet", "safe box", "hair dryer", "bathtub and shower", "ventilation"]
             }
-
         ],
         "lat": -3.3763999,
         "lng": 38.5787372,
@@ -931,27 +740,7 @@
             "name": "Kibo Safari Camp",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+         "accomodation": "Kibo Safari Camp has 110 self-contained tents for single, double, triple and family accommodation. The beds have been custom designed and locally made using bush logs and will ensure a good night’s sleep! All tents have flush toilets, showers, and wash basins. You can enjoy your shower as you like: bubbling hot or refreshing cold. For the duration of your stay in the African bush, Kibo Safari Camp will be your home away from home!",
         "lat": -2.7332651,
         "lng": 37.3752368,
         "source": "osm"
@@ -967,22 +756,22 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "The Moon Flower Room",
+            "description": "The Moon flower Suite at Kentmere Club, Limuru, is a luxurious escape designed for ultimate relaxation. This elegant suite features a spacious bedroom and a separate living area, offering privacy and comfort.",
+            "currency": "KES",
+            "price_from": "9,500.00"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Standard Room Suite",
+            "description": "Our Deluxe Room offers a cozy and efficient space perfect for solo travelers. Enjoy modern amenities including a comfortable bed, fast WiFi, HD flat TV, and a telephone.",
+            "currency": "KES",
+            "price_per_person": "6,500.00"
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Family Room Suite",
+            "description": "Our Triple Rooms at Kentmere Club, are perfect for families or groups, offering Two or three comfortable beds for a restful stay. Each room is equipped with modern amenities, including fast WiFi, an HD flat TV, and a telephone, ensuring convenience and entertainment.",
+            "currency": "KES",
+            "price_per_person": "8,500.00"
             }
 
         ],
@@ -996,27 +785,7 @@
             "stars": "5",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
+        
         "lat": -1.5000107,
         "lng": 35.4155253,
         "source": "osm"
@@ -1029,22 +798,25 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Eco Rooms",
+            "description": "Our eco rooms offer a perfect blend of rustic charm and modern comfort. Each spacious room is tastefully furnished with handcrafted African-style furniture and features a private balcony overlooking the lush Mathioya River valley, scenic tea farms, and the rolling ridges of the Aberdares. Designed with sustainability and serenity in mind, our eco rooms come with en-suite modern bathrooms, flush toilets, and hot showers for your comfort.",
+            "amenities": ["wifi", "work station", "safety", "hot water kettle", "hot shower"],
+            "guests":"3 maximum"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Tented Rooms",
+            "description": "Wake up to the breathtaking beauty of Kenya’s central highlands in our spacious tented rooms, where rustic charm meets modern comfort. Located about 800 metres from the lush banks of the North Mathioya River and overlooking the majestic Aberdare Ranges, each tented room features a private veranda that opens up to panoramic views of tea farms, forest canopy, and the tranquil river valley below",
+            "guests": "3 maximum"
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Wooden Rooms",
+            "description": "Tucked away in the heart of Murang’a’s beautiful highlands, our rustic wooden rooms offer an intimate escape into nature’s embrace. Handcrafted from local timber and adorned with African-inspired rustic furnishings, each chalet is a cozy space complete with a private veranda overlooking our lush mini forest and the small on-site waterfall.",
+            "guests": "3 maximum"
+            },
+            {
+                "type": "Glamping",
+                "description": "Immerse yourself in the epitome of an immersive stay at Aberdare Cottages, your premier countryside destination in Murang'a County. Our hotel redefines rustic hospitality and comfort, offering a homely place for discerning travelers. For the glamping experience, we normally set up the glamping tents at the main campsite",
+                "guests": "16 minimum"
             }
 
         ],
@@ -1068,22 +840,16 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Classic Rooms (Twin | Queen)",
+            "description": "One Kings Bed"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "SignatureRoom",
+            "description": "Quaint decor, high speed internet, TV, hairdryer"
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Signature | Superior Cottages",
+            "description": "Soothing ambience, charming countryside suite"
             }
 
         ],
@@ -1098,26 +864,26 @@
             "name": "Hemingway Resort",
             "phone": ":(254) 020 2649399",
             "stars": "5",
-            "tourism": "hotel"
+            "website": "https://hemingways-collection/watamu/stay/ocean-view-room",
+            "tourism": "hotel",
+            "description": "Set along the white sands of Garoda Beach, within the protected Watamu Marine National Park, Hemingways Watamu is a refined coastal escape where barefoot luxury meets laid-back charm. Overlooking the Indian Ocean, the property features elegantly appointed rooms and residences, exceptional dining, a botanical spa, and unrivalled access to one of East Africa’s most vibrant marine ecosystems."
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "4 Bedroom Ocean View Penthouse",
+            "description": "Duplex layout with expansive sea-view terraces | Two master suites and two twin rooms |Perfect for groups or large families"
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Ocean View Room",
+            "description": "40m² of coastal comfort |Uninterrupted ocean views |Located steps from the beach and botanical pool"
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Deluxe Ocean View Rooms",
+            "description": "Panoramic Indian Ocean views | Uninterrupted coastal breeze | Refined interiors with spacious en-suite bathroom"
+            },
+            {
+            "type": "1 Bedroom Ocean View Suite",
+            "description": "Ideal for couples or solo travellers, this airy residence at Hemingways Watamu features a generous living space and a sweeping view of the Marine Park."
             }
 
         ],
@@ -1133,24 +899,15 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "Romantic Honeymoon Package",
+            "description": "Escape to paradise and let us set the scene for unforgettable moments together. Our Romance & Honeymoon Package is designed for couples seeking the perfect blend of celebration and relaxation. On arrival, toast your getaway with a chilled bottle of bubbles, then unwind side-by-side with two blissful 1-hour massages in the privacy of your villa."
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
+            "type": "Free Fast Boat Transfer",
+            "description": "Make your island escape seamless with our exclusive direct booking perk. Guests staying 5 nights or more will receive complimentary round-trip fast boat transfers from Bali—taking the stress out of travel so you can arrive relaxed and ready to enjoy paradise.",
             "currency": "USD",
             "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
             }
-
         ],
         "lat": -3.3319559,
         "lng": 40.0113977,
@@ -1162,27 +919,6 @@
             "name": "Glory Food hotel",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -1.3116065,
         "lng": 36.7955824,
         "source": "osm"
@@ -1192,27 +928,6 @@
             "name": "Kwa Izo Hotel",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -1.3126591,
         "lng": 36.7850454,
         "source": "osm"
@@ -1223,27 +938,6 @@
             "name": "Mzambani hotel",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -1.3127733,
         "lng": 36.7998805,
         "source": "osm"
@@ -1253,27 +947,6 @@
             "name": "Sunsail",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -2.2684687,
         "lng": 40.9026909,
         "source": "osm"
@@ -1287,22 +960,16 @@
         },
          "rooms": [
             {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
+            "type": "River View Tents",
+            "description": "Each double tent offers king-size double or twin beds, a bathroom featuring bio-flush toilets and a solar-heated shower, free in-room wifi, a private deck where you have a direct view of the Masai Mara National Reserve."
             },
             {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
+            "type": "Honeymoon Tent",
+            "description": "The large honeymoon tent has a prime location with fantastic views over the National Reserve and it offers a king-size double bed, a bathroom featuring bio-flush toilets and a solar-heated shower, free in-room wifi, a private deck over the river."
             },
             {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
+            "type": "Family Tents",
+            "description": "The family tents have two separate wings, each featuring a double bed and a bathroom with bio-flush toilets. The tents offer free in-room Wifi, a larger deluxe balcony to give families or groups a chance to socialize in complete privacy. They overlook the river and the National Reserve."
             }
 
         ],
@@ -1317,27 +984,6 @@
             "name": "Bridge View Safari Lodge",
             "tourism": "hotel"
         },
-         "rooms": [
-            {
-            "type": "Superior",
-            "description": "One Kings Bed",
-            "currency": "USD",
-            "price_per_person": "87.50"
-            },
-            {
-            "type": "Deluxe Room",
-            "description": "Quaint decor, high speed internet, TV, hairdryer",
-            "currency": "USD",
-            "price_per_person": "97.50"
-            },
-            {
-            "type": "Junior Suite",
-            "description": "Soothing ambience, charming countryside suite",
-            "currency": "USD",
-            "price_per_person": "125.50"
-            }
-
-        ],
         "lat": -3.9522957,
         "lng": 39.7441986,
         "source": "osm"
@@ -2930,6 +2576,7 @@
             "website": "https://www.sopalodges.com/amboseli-sopa-lodge/overview",
             "wheelchair": "yes"
         },
+        "room_types": ["honeymoon suite", "interconnecting rooms", "conference rooms", "presidential suites"],
         "lat": -2.8136565,
         "lng": 37.5032583,
         "source": "osm"
@@ -4018,6 +3665,7 @@
             "name": "Masai Mara Sopa Lodge",
             "tourism": "hotel"
         },
+        "room_types": ["cottages"],
         "lat": -1.607788,
         "lng": 35.3870489,
         "source": "osm"
@@ -4465,7 +4113,8 @@
             "swimming_pool": "outdoor",
             "tourism": "hotel",
             "website": "https://sopalodges.com/lake-nakuru-sopa-lodge/the-lodge",
-            "wheelchair": "limited"
+            "wheelchair": "limited",
+            "rooms": "60"
         },
         "lat": -0.4272416,
         "lng": 36.0530395,
@@ -6072,6 +5721,7 @@
             "name": "Naibor Camp",
             "tourism": "hotel"
         },
+        "room_types": ["Expansive  3 and 4-bedroom layouts", "Signature private courtyard terrace"],
         "lat": -1.3707422,
         "lng": 36.7600858,
         "source": "osm"
@@ -7717,6 +7367,32 @@
             "name": "Msambweni Private Villa II",
             "tourism": "hotel"
         },
+        "rooms": [
+            {
+                "type": "Master Suite I",
+                "description": "Master Suite I is a spacious en-suite room with a private veranda, offering stunning panoramic sea views. The room is air-conditioned and furnished with mosquito nets, ensuring a comfortable stay."
+            },
+            {
+                "type": "Master Suite II",
+                "description": "Similar to Master Suite I, Master Suite II offers a spacious en-suite room with a private veranda and panoramic sea views. The room is equipped with air conditioning and mosquito nets for guest comfort."
+            },
+            {
+                "type": "Master Suite III",
+                "description": "Master Suite III features a spacious en-suite room with a private veranda offering lovely bush and sea views. The room includes air conditioning and mosquito nets to ensure a comfortable stay."
+            },
+            {
+                "type": "Private Villa I",
+                "description": "Private Villa I is an exclusive one-bedroom villa with a double bed, en-suite bathroom, private terrace, and a 30-meter swimming pool overlooking the beach."
+            },
+            {
+                "type": "Private Villa II",
+                "description": "Private Villa II is an exclusive one-bedroom villa with a double bed, en-suite bathroom, private terrace, and a 12-meter swimming pool overlooking the beach."
+            },
+            {
+                "type": "Private Villa III",
+                "description": "Private Villa III features two bedrooms, each with en-suite bathrooms. The villa has its own private terrace, a 30-meter swimming pool, and a Jacuzzi overlooking the beach"
+            }
+        ],
         "lat": -4.5084963,
         "lng": 39.4695454,
         "source": "osm"
@@ -22357,6 +22033,7 @@
             "wheelchair": "yes",
             "wheelchair:rooms": "2"
         },
+        "room_types": ["high ceiling cottages"],
         "lat": 0.6083507,
         "lng": 37.522777,
         "source": "osm"
