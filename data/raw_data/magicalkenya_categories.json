@@ -1,0 +1,683 @@
+[
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Bahari Beach Hotel",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Diani Reef Resort and Spa",
+            "description": "Diani Reef\u2019s commitment extends to local community empowerment and cultural preservation, while maintaining high standards in environmental management, staff welfare, and visitor education, embodying a holistic approach to eco-friendly hospitality."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Severin Safari Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Afro Chic Diani",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Voyager Ziwani Tented Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "The Sands at Nomad",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Voyager Beach Resort",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Serena Beach Resort and Spa",
+            "description": "Serena Hotels has been a leader in sustainable tourism for over 40 years. Committed to combining developmental objectives with economic sustainability, the company focuses on best practices in social, cultural, environmental, and economic development. Through responsible business practices, eco-friendly measures, and community engagement, Serena Hotels aligns with the Sustainable Development Goals to make a positive impact on the environment, economy, and society."
+        }
+    },
+    {
+        "place": "Coast",
+        "camps": {
+            "name": "Medina Palms",
+            "description": "Medina Palms has invested in an organic recycling and composite system, that manages waste from the kitchen and is reused in the vegetable gardens as manure."
+        }
+    }
+,
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Bahari Beach Hotel",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Diani Reef Resort and Spa",
+            "description": "Diani Reef\u2019s commitment extends to local community empowerment and cultural preservation, while maintaining high standards in environmental management, staff welfare, and visitor education, embodying a holistic approach to eco-friendly hospitality."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Severin Safari Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Afro Chic Diani",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Voyager Ziwani Tented Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "The Sands at Nomad",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Voyager Beach Resort",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Serena Beach Resort and Spa",
+            "description": "Serena Hotels has been a leader in sustainable tourism for over 40 years. Committed to combining developmental objectives with economic sustainability, the company focuses on best practices in social, cultural, environmental, and economic development. Through responsible business practices, eco-friendly measures, and community engagement, Serena Hotels aligns with the Sustainable Development Goals to make a positive impact on the environment, economy, and society."
+        }
+    },
+    {
+        "place": "C\u00f4te",
+        "camps": {
+            "name": "Medina Palms",
+            "description": "Medina Palms has invested in an organic recycling and composite system, that manages waste from the kitchen and is reused in the vegetable gardens as manure."
+        }
+    }
+,
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Bahari Beach Hotel",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Diani Reef Resort and Spa",
+            "description": "Diani Reef\u2019s commitment extends to local community empowerment and cultural preservation, while maintaining high standards in environmental management, staff welfare, and visitor education, embodying a holistic approach to eco-friendly hospitality."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Severin Safari Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Afro Chic Diani",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Voyager Ziwani Tented Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "The Sands at Nomad",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Voyager Beach Resort",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Serena Beach Resort and Spa",
+            "description": "Serena Hotels has been a leader in sustainable tourism for over 40 years. Committed to combining developmental objectives with economic sustainability, the company focuses on best practices in social, cultural, environmental, and economic development. Through responsible business practices, eco-friendly measures, and community engagement, Serena Hotels aligns with the Sustainable Development Goals to make a positive impact on the environment, economy, and society."
+        }
+    },
+    {
+        "place": "K\u00fcste",
+        "camps": {
+            "name": "Medina Palms",
+            "description": "Medina Palms has invested in an organic recycling and composite system, that manages waste from the kitchen and is reused in the vegetable gardens as manure."
+        }
+    }
+,
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elephant Bedroom Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sarova Shaba Game Lodge",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Lodo Springs",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elsa\u2019s Kopje",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Ol Pejeta Bush Camp",
+            "description": "Sustainable tourism needs at Ol Pejeta Bush Camp are met through solar power, emphasizing the camp\u2019s commitment to renewable energy. They also play a big part in helping with the sustainable efforts of the conservancy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Kifaru House Lewa",
+            "description": "We\u2019re deeply committed to eco-friendly practices and wildlife conservation. From minimizing our environmental footprint to supporting local communities, our efforts extend across our entire operation. Our conservation initiatives include protecting endangered species such as rhinos and Grevy zebras, while our outreach programs focus on healthcare, education, micro-finance, and water projects for nearby communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Star Beds",
+            "description": "As part of the Loisaba Community Trust, our 57,000-acre conservancy is dedicated to wildlife conservation and community improvement, ensuring a sustainable future for all.  The Loisaba mission is to protect and enhance critical wildlife diversity, abundance and habitat in the Loisaba landscape, which sits on the western edge of one of Kenya\u2019s most important elephant movement corridors, while concurrently supporting sustainable livestock production and improving the lives of neighbouring communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Samburu Sopa Lodge",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sweetwaters Serena Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Saruni Samburu",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    }
+,
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elephant Bedroom Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sarova Shaba Game Lodge",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Lodo Springs",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elsa\u2019s Kopje",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Ol Pejeta Bush Camp",
+            "description": "Sustainable tourism needs at Ol Pejeta Bush Camp are met through solar power, emphasizing the camp\u2019s commitment to renewable energy. They also play a big part in helping with the sustainable efforts of the conservancy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Kifaru House Lewa",
+            "description": "We\u2019re deeply committed to eco-friendly practices and wildlife conservation. From minimizing our environmental footprint to supporting local communities, our efforts extend across our entire operation. Our conservation initiatives include protecting endangered species such as rhinos and Grevy zebras, while our outreach programs focus on healthcare, education, micro-finance, and water projects for nearby communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Star Beds",
+            "description": "As part of the Loisaba Community Trust, our 57,000-acre conservancy is dedicated to wildlife conservation and community improvement, ensuring a sustainable future for all.  The Loisaba mission is to protect and enhance critical wildlife diversity, abundance and habitat in the Loisaba landscape, which sits on the western edge of one of Kenya\u2019s most important elephant movement corridors, while concurrently supporting sustainable livestock production and improving the lives of neighbouring communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Samburu Sopa Lodge",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sweetwaters Serena Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Saruni Samburu",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    }
+,
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elephant Bedroom Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sarova Shaba Game Lodge",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Lodo Springs",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Elsa\u2019s Kopje",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Ol Pejeta Bush Camp",
+            "description": "Sustainable tourism needs at Ol Pejeta Bush Camp are met through solar power, emphasizing the camp\u2019s commitment to renewable energy. They also play a big part in helping with the sustainable efforts of the conservancy."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Kifaru House Lewa",
+            "description": "We\u2019re deeply committed to eco-friendly practices and wildlife conservation. From minimizing our environmental footprint to supporting local communities, our efforts extend across our entire operation. Our conservation initiatives include protecting endangered species such as rhinos and Grevy zebras, while our outreach programs focus on healthcare, education, micro-finance, and water projects for nearby communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Loisaba Star Beds",
+            "description": "As part of the Loisaba Community Trust, our 57,000-acre conservancy is dedicated to wildlife conservation and community improvement, ensuring a sustainable future for all.  The Loisaba mission is to protect and enhance critical wildlife diversity, abundance and habitat in the Loisaba landscape, which sits on the western edge of one of Kenya\u2019s most important elephant movement corridors, while concurrently supporting sustainable livestock production and improving the lives of neighbouring communities."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Samburu Sopa Lodge",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Sweetwaters Serena Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Laikipia/Samburu",
+        "camps": {
+            "name": "Saruni Samburu",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    }
+,
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Sanctuary Olonana Camp",
+            "description": "The camp\u2019s sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Naboisho Camp",
+            "description": "We\u2019re committed to empowering vital wilderness areas in East Africa, fostering sustainability for both communities and ecosystems. Through strategic investments and collaboration with local partners, NGOs, and guests, we\u2019re turning vulnerable regions into thriving conservation economies. With each guest\u2019s contribution, we\u2019re making significant strides towards our goal, ensuring a positive impact on both people and nature."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Mara Plains Camp",
+            "description": "In our pursuit of sustainable conservation, we\u2019ve witnessed the decline of precious natural habitats. To counteract this, we\u2019ve pioneered bold conservation models that integrate communities, governments, and the private sector. Through low-impact tourism, we fund compassionate protection and intelligent management of stressed environments, ensuring benefits for both communities and wildlife."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Kilima Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Kicheche Valley Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Kicheche Mara Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Kicheche Bush Camp",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Karen Blixen Camp",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Rekero Camp",
+            "description": "The hotel offers tourists a chance to experience wildlife and nature conservation firsthand. Their environmental efforts include an annual self-audit, the \u2018Ocean Love Initiative\u2019 for beach clean-ups, and support for the Kenya Wildlife Service\u2019s clean-ups."
+        }
+    },
+    {
+        "place": "Maasai Mara/South Rift",
+        "camps": {
+            "name": "Elephant Pepper Camp",
+            "description": "Amboseli Serena Safari Lodge  practices energy conservation, waste recycling, and sustainable sewage management. Its Environmental Management System (EMS) focuses on water, energy, and waste, with annual audits following local regulations."
+        }
+    }
+,
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Sanctuary Olonana Camp",
+            "description": "The camp\u2019s sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Naboisho Camp",
+            "description": "We\u2019re committed to empowering vital wilderness areas in East Africa, fostering sustainability for both communities and ecosystems. Through strategic investments and collaboration with local partners, NGOs, and guests, we\u2019re turning vulnerable regions into thriving conservation economies. With each guest\u2019s contribution, we\u2019re making significant strides towards our goal, ensuring a positive impact on both people and nature."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Mara Plains Camp",
+            "description": "In our pursuit of sustainable conservation, we\u2019ve witnessed the decline of precious natural habitats. To counteract this, we\u2019ve pioneered bold conservation models that integrate communities, governments, and the private sector. Through low-impact tourism, we fund compassionate protection and intelligent management of stressed environments, ensuring benefits for both communities and wildlife."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Kilima Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Kicheche Valley Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Kicheche Mara Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Kicheche Bush Camp",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Karen Blixen Camp",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Rekero Camp",
+            "description": "The hotel offers tourists a chance to experience wildlife and nature conservation firsthand. Their environmental efforts include an annual self-audit, the \u2018Ocean Love Initiative\u2019 for beach clean-ups, and support for the Kenya Wildlife Service\u2019s clean-ups."
+        }
+    },
+    {
+        "place": "Maasai Mara/Sud Rift",
+        "camps": {
+            "name": "Elephant Pepper Camp",
+            "description": "Amboseli Serena Safari Lodge  practices energy conservation, waste recycling, and sustainable sewage management. Its Environmental Management System (EMS) focuses on water, energy, and waste, with annual audits following local regulations."
+        }
+    }
+,
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Sanctuary Olonana Camp",
+            "description": "The camp\u2019s sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Naboisho Camp",
+            "description": "We\u2019re committed to empowering vital wilderness areas in East Africa, fostering sustainability for both communities and ecosystems. Through strategic investments and collaboration with local partners, NGOs, and guests, we\u2019re turning vulnerable regions into thriving conservation economies. With each guest\u2019s contribution, we\u2019re making significant strides towards our goal, ensuring a positive impact on both people and nature."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Mara Plains Camp",
+            "description": "In our pursuit of sustainable conservation, we\u2019ve witnessed the decline of precious natural habitats. To counteract this, we\u2019ve pioneered bold conservation models that integrate communities, governments, and the private sector. Through low-impact tourism, we fund compassionate protection and intelligent management of stressed environments, ensuring benefits for both communities and wildlife."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Kilima Camp",
+            "description": "Focusing on sustainability through environmental audits, waste management, water conservation, and energy efficiency. The resort actively supports local communities and wildlife conservation."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Kicheche Valley Camp",
+            "description": "Sustainability through environmental audits, efficient waste management, and water conservation practices. It emphasizes energy efficiency, pollution control, and community engagement, supporting local initiatives and cultural preservation."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Kicheche Mara Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Kicheche Bush Camp",
+            "description": "Sustainable tourism needs are met through solar power, emphasizing the camp\u2019s commitment to renewable energy."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Karen Blixen Camp",
+            "description": "On top of planting over 1,100 trees and educating local children on conservation, the camp\u2019s innovative waste management, utilizes biodigesters and composting, complementing its efficient water and energy use, with solar panels and LPG cooking."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Rekero Camp",
+            "description": "The hotel offers tourists a chance to experience wildlife and nature conservation firsthand. Their environmental efforts include an annual self-audit, the \u2018Ocean Love Initiative\u2019 for beach clean-ups, and support for the Kenya Wildlife Service\u2019s clean-ups."
+        }
+    },
+    {
+        "place": "Masai Mara/S\u00fcdrift",
+        "camps": {
+            "name": "Elephant Pepper Camp",
+            "description": "Amboseli Serena Safari Lodge  practices energy conservation, waste recycling, and sustainable sewage management. Its Environmental Management System (EMS) focuses on water, energy, and waste, with annual audits following local regulations."
+        }
+    }
+,
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Loldia House",
+            "description": "Loldia House supplies the bulk of meat required to feed rescued birds at both the Naivasha and Soysambu rehabilitation centres. 50 Kg of meat is given to vultures, and this lasts one week."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Sarova Lion Hill Lodge",
+            "description": "In partnership with KWS, the camp conducts clean ups at the town centre. This is normally done along the route that leads to the park. The lodge donated gloves and water to be used by those that participated in the process."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Lake Naivasha Country Club",
+            "description": "The facility carries out regular environmental clean-up activities from Karagita main road to the premises. Approximately over 100 indigenous tree species such as Acacia have been planted within the facility. The management also supports KWS rangers through provision of water."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Lewa Safari Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Lake Elmenteita Serena Camp",
+            "description": "Emphasizing a low ecological footprint, the camp supports local wildlife monitoring and boasts a successful tree planting initiative. Innovative waste water treatment ensures recycling and reuse, complementing solid waste management and pollution control measures."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Lake Nakuru Sopa Lodge",
+            "description": "The lodge forms part of the park stakeholders committee, which works together with Kenya Wildlife Service (KWS) in implementing conservation projects such as \u2018Cycling with rhinos\u2019 event which is held annually. The lodge participates in the planning, sensitization and execution of the project in conjunction with local schools."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Great Rift Valley Lodge and Golf Resort",
+            "description": "The facility has tree planting activity conducted within the premises. Each staff has a set target of 10 trees to plant in every year. A list of tree species planted was verified. Seedlings are obtained from the facility\u2019s own nursery bed."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Lake Naivasha Sopa Resort",
+            "description": "The resort conducts low environmental impact activities such as bird watching, nature walks, cycling, boat rides and fishing activities for its visitors. The activities are aimed at sensitizing the visitors on the surrounding environment."
+        }
+    },
+    {
+        "place": "North Rift",
+        "camps": {
+            "name": "Cottars 1920\u2019s Camp",
+            "description": "Cottars Safari camp supports conservation initiatives through the Cottars Wildlife Conservation Trust (CWCT), which manages Olderkesi conservancy on behalf of the local Maasai community and the Olderkesi Community Wildlife Conservation Trust (OCWCT)."
+        }
+    }
+]
