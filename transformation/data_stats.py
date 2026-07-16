@@ -34,7 +34,9 @@ print(f"{'='*60}")
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 2000)
 pd.set_option('display.max_colwidth', 60)
-print(entities_frame.head())
+print(entities_frame.head(15))
+
+
 
 categories = entities_frame.select_dtypes(include=['object', 'category']).columns.tolist()
 print(f"\n{'='*60}")

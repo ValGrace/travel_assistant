@@ -490,7 +490,7 @@
             "name": "Crater Lake Tented Camp",
             "tourism": "hotel"
         },
-         "room_types": [        
+         "accommodations": [        
             "family tent", "family room", "honeymoon suite"
         ],
         "lat": -0.7836059,
@@ -740,7 +740,7 @@
             "name": "Kibo Safari Camp",
             "tourism": "hotel"
         },
-         "accomodation": "Kibo Safari Camp has 110 self-contained tents for single, double, triple and family accommodation. The beds have been custom designed and locally made using bush logs and will ensure a good night’s sleep! All tents have flush toilets, showers, and wash basins. You can enjoy your shower as you like: bubbling hot or refreshing cold. For the duration of your stay in the African bush, Kibo Safari Camp will be your home away from home!",
+         "accommodations": "Kibo Safari Camp has 110 self-contained tents for single, double, triple and family accommodation. The beds have been custom designed and locally made using bush logs and will ensure a good night’s sleep! All tents have flush toilets, showers, and wash basins. You can enjoy your shower as you like: bubbling hot or refreshing cold. For the duration of your stay in the African bush, Kibo Safari Camp will be your home away from home!",
         "lat": -2.7332651,
         "lng": 37.3752368,
         "source": "osm"
@@ -1423,7 +1423,7 @@
         "metadata": {
             "addr:city": "Nyeri",
             "addr:street": "Nyeri Karatina Road",
-            "description": "Has accomodation, Seminar and meeting rooms",
+            "description": "Has accommodations, Seminar and meeting rooms",
             "internet_access": "no",
             "internet_access:fee": "no",
             "name": "Express Inn",
@@ -2576,7 +2576,7 @@
             "website": "https://www.sopalodges.com/amboseli-sopa-lodge/overview",
             "wheelchair": "yes"
         },
-        "room_types": ["honeymoon suite", "interconnecting rooms", "conference rooms", "presidential suites"],
+        "accommodations": ["honeymoon suite", "interconnecting rooms", "conference rooms", "presidential suites"],
         "lat": -2.8136565,
         "lng": 37.5032583,
         "source": "osm"
@@ -3165,6 +3165,24 @@
             "tourism": "hotel",
             "website": "https://www.sarovahotels.com/maracamp-masai-mara/"
         },
+         "accommodations": [
+            {
+            "type": "Olchani Luxury Club Tent",
+            "description": "This is our premium room category, a tranquil retreat featuring earth-toned loungers, decor pieces & textured rags on wood floors.",
+            "amenities": ["vantage park views", "glass panel doors", " 4 post double bed", "Tent deck", "Deck sun loungers", "Mosquito net & repellant", "Overhead fan", "High-speed internet", "hair dryer", "clothes rack", "vanity table", "safe box"]
+            },
+            {
+            "type": "Tented Suite",
+            "description": "Sarova Mara Game Camp is a haven for family getaways, so for those traveling with children, our 2- roomed family tents are most ideal.",
+            "amenities": ["vantage park views", "glass panel doors", " 4 post double bed", "Tent deck", "Deck sun loungers", "Mosquito net & repellant", "Overhead fan", "High-speed internet", "hair dryer", "clothes rack", "vanity table", "safe box"]
+            },
+            {
+            "type": "Mara Deluxe Tent",
+            "description": "Our large deluxe tents come with either a queen-size bed or twin beds.",
+            "amenities": ["vantage park views", "glass panel doors", " 4 post double bed", "Tent deck", "Deck sun loungers", "Mosquito net & repellant", "Overhead fan", "High-speed internet", "hair dryer", "clothes rack", "vanity table", "safe box"]
+            }
+
+        ],
         "lat": -1.5306776,
         "lng": 35.3196082,
         "source": "osm"
@@ -3587,7 +3605,11 @@
         },
         "accommodations": [
            {
-             "type": ""
+             "type": "Three Bedroom Apartment with balcony",
+             "amenities": ["wifi","elevator", "washing machine", "fully equipped kitchen", "bath", "coffee machine", "refrigerator", "free toiletries", "microwave", "electric kettle", "toaster", "TV"],
+             "description": "This thoughtfully designed apartment offers a peaceful retreat with lush greenery views while being minutes from premier shopping malls, restaurants, and offices. Curated by YourHost's design team, the interiors blend modern aesthetics with African touches, creating a warm, inviting ambiance. Ideal for professionals, couples, and families seeking a calm, accessible home close to Nairobi’s bustling city center.",
+             "currency": "KES",
+             "price_from": "29,895"
             }
         ],
         "lat": -1.2701168,
@@ -3665,7 +3687,7 @@
             "name": "Masai Mara Sopa Lodge",
             "tourism": "hotel"
         },
-        "room_types": ["cottages"],
+        "accommodations": ["cottages"],
         "lat": -1.607788,
         "lng": 35.3870489,
         "source": "osm"
@@ -5446,9 +5468,6 @@
             "name": "Magna Hotel & Suites",
             "tourism": "hotel"
         },
-        "rooms": {
-            
-        },
         "lat": -1.2311071,
         "lng": 36.8048611,
         "source": "osm"
@@ -5721,7 +5740,7 @@
             "name": "Naibor Camp",
             "tourism": "hotel"
         },
-        "room_types": ["Expansive  3 and 4-bedroom layouts", "Signature private courtyard terrace"],
+        "accommodations": ["Expansive  3 and 4-bedroom layouts", "Signature private courtyard terrace"],
         "lat": -1.3707422,
         "lng": 36.7600858,
         "source": "osm"
@@ -16745,6 +16764,24 @@
             "tourism": "hotel",
             "website": "https://www.sarovahotels.com/shabalodge-samburu/"
         },
+        "accommodations": [
+            {
+            "type": "Sarova Shaba Born Free Suite",
+            "description": "The Born Free Suite is named after Joy Adamson's book about Elsa the lioness.",
+            "amenities": ["en-suite bathroom", "mosquito net", "overhead fans", "fresh tea or coffee", "running hot and cold water"]
+            },
+            {
+            "type": "Sarova Shaba Standard Rooms",
+            "description": "Our standard rooms are large, airy and rustic. Each is a room with a view indeed!",
+            "amenities": ["en-suite bathroom", "mosquito net", "overhead fans", "fresh tea or coffee", "running hot and cold water"]
+            },
+            {
+            "type": "Sarova Shaba Executive Suites",
+            "description": "The Executive suite has a beautiful lounge connected to your large bedroom and stunning views overlooking our lush grounds and the river.",
+            "amenities": ["en-suite bathroom", "mosquito net", "overhead fans", "fresh tea or coffee", "running hot and cold water"]
+            }
+
+        ],
         "lat": 0.6647981,
         "lng": 37.708747,
         "source": "osm"
@@ -19911,6 +19948,24 @@
             "tourism": "hotel",
             "website": "http://oakplace.co.ke/"
         },
+        "accommodations": [
+            {
+            "type": "Standard Room",
+            "description": "Comfortable rooms featuring all essential amenities, surrounded by lush gardens and fresh country air.",
+            "amenities": ["air conditioner", "wifi", "mini bar", "fresh tea or coffee"]
+            },
+            {
+            "type": "Deluxe Room",
+            "description": "Spacious cottage-style accommodations with wooden exteriors, individual climate control, and serene garden views.",
+            "amenities": ["air conditioner", "hair dryer", "garden view", "mini bar", "24 hr room service"]
+            },
+            {
+            "type": "Sharing Occupancy",
+            "description": "Ideal for friends or colleagues, these rooms offer comfortable twin beds and all standard amenities",
+            "amenities": ["air conditioner", "hair dryer", "mini bar", "twin beds"]
+            }
+
+        ],
         "lat": -1.2172392,
         "lng": 36.8522228,
         "source": "osm"
@@ -19919,8 +19974,54 @@
         "metadata": {
             "building": "yes",
             "name": "Kambua Arcade",
-            "tourism": "hotel"
+            "tourism": "hotel",
+            "website": "https://kambuaresort.co.ke/"
         },
+        "accommodations": [
+            {
+            "type": "Standard Room - Single B&B",
+            "description": "A simple, comfortable single room with essential amenities and breakfast included, ideal for solo travellers seeking a quiet and convenient stay in Kibwezi.",
+            "currency": "KES",
+            "price_from": "2000",
+            "amenities": ["air conditioner", "wifi", "mini bar", "fresh tea or coffee"]
+            },
+            {
+            "type": "Standard Room - Double B&B",
+            "description": "A comfortable double room with essential amenities and breakfast included, perfect for couples or friends visiting Kibwezi.",
+            "amenities": ["air conditioner", "hair dryer", "garden view", "mini bar", "24 hr room service"],
+            "currency": "KES",
+            "price_from": "3000"
+            },
+            {
+            "type": "Business Room – Single B&B",
+            "description": "A comfortable single business room designed for productivity and rest, featuring a work desk, Wi-Fi, and breakfast. Ideal for solo travellers seeking a quiet and",
+            "currency":"KES",
+            "price_from": "3000",
+            "amenities": ["hot water", "desk", "satellite TV", "travel consultancy", "Pick-up and drop-off to and from the Kibwezi (SGR) Station", "Daily newspaper available in the dining room/lounge", "printing", "Wi-Fi", "parking"]
+            },
+            {
+            "type": "Deluxe Room – Single B&B",
+            "description": "A spacious and upgraded single room offering extra comfort, Wi-Fi, and breakfast. Ideal for solo travellers seeking a peaceful and refined stay in Kibwezi.",
+            "currency":"KES",
+            "price_from": "3000",
+            "amenities": ["hot water", "desk", "satellite TV", "travel consultancy", "Pick-up and drop-off to and from the Kibwezi (SGR) Station", "Daily newspaper available in the dining room/lounge", "printing", "Wi-Fi", "parking"]
+            },
+            {
+            "type": "Business Room – Double B&B",
+            "description": "The Business Room – Double B&B at Kambua Resort offers a comfortable and functional space for two guests who need both relaxation and convenience during their stay. It is well suited for business partners, colleagues, or couples travelling together along the Nairobi–Mombasa corridor.",
+            "currency":"KES",
+            "price_from": "4000",
+            "amenities": ["hot water", "desk", "satellite TV", "travel consultancy", "Pick-up and drop-off to and from the Kibwezi (SGR) Station", "Daily newspaper available in the dining room/lounge", "printing", "Wi-Fi", "parking"]
+            },
+            {
+            "type": "Superior Room – Double B&B",
+            "description": "The room features a large double bed, a seating area, and a work desk, making it suitable for both leisure and business needs. The generous layout creates a relaxed atmosphere, giving guests enough space to unwind, read, or simply enjoy quiet moments indoors.",
+            "currency":"KES",
+            "price_from": "9000",
+            "amenities": ["hot water", "desk", "satellite TV", "travel consultancy", "Pick-up and drop-off to and from the Kibwezi (SGR) Station", "Daily newspaper available in the dining room/lounge", "printing", "Wi-Fi", "parking"]
+            }
+
+        ],
         "lat": -2.4108993,
         "lng": 37.9646693,
         "source": "osm"
@@ -19949,6 +20050,24 @@
             "tourism": "hotel",
             "website": "https://www.sarovahotels.com/imperial-kisumu/"
         },
+        "accommodations": [
+            {
+            "type": "Premium Suite",
+            "description": "Each of our 3 spacious signature suites carries an intriguing theme with a visually appealing interior, luxurious comforts and amazing lake and city views.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            },
+            {
+            "type": "Deluxe View Room",
+            "description": "Especially curated for a pleasurable stay, this spacious room boasts of a clean, neat aesthetic and accords our guest comfort and peace of mind. The room offers amazing lake & cityscape views.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            },
+            {
+            "type": "Deluxe Room",
+            "description": "This room, which comes in either a twin or queen bed option easily offers an inviting feel with modern amenities for a relaxing, enjoyable stay for our corporate or leisure guest.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            }
+
+        ],
         "lat": -0.103962,
         "lng": 34.7554468,
         "source": "osm"
@@ -20865,6 +20984,21 @@
             "tourism": "hotel",
             "website": "https://www.ihg.com/crowneplaza/hotels/gb/en/nairobi/nboir/hoteldetail;https://www.ihg.com/crowneplaza/hotels/us/en/nairobi/nboir/hoteldetail"
         },
+        "accommodations": [
+            {
+                "type": "Standard Room",
+                "description": "When you arrive at the hotel we will do our best to meet your room type preference This is subject to availability and cannot be guaranteed",
+                "currency": "USD",
+                "price_from": "143"
+            },
+            {
+                "type": "2 Single Beds Standard Balcony",
+                "description": "Twin Room with 2 single beds and a spacious balcony to relax in. (Non-Smoking)",
+                "currency": "USD",
+                "price_from": "162"
+            }
+
+        ],
         "lat": -1.3408879,
         "lng": 36.9129705,
         "source": "osm"
@@ -22033,7 +22167,7 @@
             "wheelchair": "yes",
             "wheelchair:rooms": "2"
         },
-        "room_types": ["high ceiling cottages"],
+        "accommodations": ["high ceiling cottages"],
         "lat": 0.6083507,
         "lng": 37.522777,
         "source": "osm"
@@ -23079,6 +23213,29 @@
             "tourism": "hotel",
             "website": "https://www.sarovahotels.com/lionhill-nakuru/"
         },
+         "accommodations": [
+            {
+            "type": "Sarova Lion Hill Ziwa Suite",
+            "description": "Ziwa meaning lake in Swahili, is the lodge's presidential suite. The suite is situated in an isolated location with an outstanding view and large private terrace and dining area. Long leisurely private evenings under the starlit sky as sit you sit with friends and family around a bonfire are a truly special experience.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            },
+            {
+            "type": "Sarova Lion Hill Chui and Faru Suites",
+            "description": "Chui and Faru are names after the two animals most coveted for visitors to the Park. They are Swahili names meaning leopard and rhino respectively.The 2 bedroom suites that are adjacent to each other are tastefully furnished with a fireplace and private terrace and are characterised by these two fierce and endangered species.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            },
+            {
+            "type": "Sarova Lion Hill Standard Rooms",
+            "description": "The chalet-style single, double, twin and triple rooms provide unforgettable natural views each from its own terrace.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box"]
+            },
+            {
+            "type": "Woodlands State Suite",
+            "description": "A lavish spacious sitting room adjoining two en-suite bedrooms, our State Suite offers a distinctive experience with richly coloured furnishings. Abundant floral arrangements and a fruit basket will await you upon arrival and additional facilities such as concierge services and specially crafted amenities will be availed.",
+            "amenities": ["air conditioning", "wifi", "mini bar", "fresh tea or coffee", "hair dryer", "black out curtains", "hair dryer", "private bath", "safe box", "satellite TV"]
+            }
+
+        ],
         "lat": -0.3462636,
         "lng": 36.1217465,
         "source": "osm"
