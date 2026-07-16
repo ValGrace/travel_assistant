@@ -6,7 +6,7 @@
             "tourism": "hotel",
             "website": "https://www.muthuhotelsmgm.com/muthu-silver-springs-hotel.html"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Courtyard Room",
             "description": "offers a retreat from the hustle and bustle of urban life",
@@ -62,7 +62,7 @@
             "tourism": "hotel",
             "website": "https://olivegardens.co.ke/about"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Superior Rooms",
             "description": "2 guests spacious rooms",
@@ -96,7 +96,7 @@
             "tourism": "hotel",
             "wheelchair": "yes"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Deluxe Room",
             "description": "beautiful views of the city skyline and Central Park",
@@ -164,7 +164,7 @@
             "operator": "Southern Sun",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "General Rooms",
             "main_facilities": ["free internet access", "parking", "safe deposit box", "24 hr reception", "gift / newstand"],
@@ -212,7 +212,7 @@
             "name": "Kivi Milimani",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Superior",
             "description": "One Kings Bed",
@@ -269,7 +269,7 @@
             "wikidata": "Q7489138",
             "wikipedia": "en:Shanzu"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Superior",
             "description": "One Kings Bed",
@@ -364,7 +364,7 @@
             "tourism": "hotel",
             "rooms": "99"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Cottages",
             "description": "Electronic safes, dressing tables, en-suite bathrooms, sheltered varandasz"
@@ -397,7 +397,7 @@
             "tourism": "hotel",
             "website": "https://www.leopardbeachresort.com/"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Villa 3 Bedroom",
             "description": "Room Service, Beachfront, game room, fitness center"
@@ -435,7 +435,7 @@
             "name": "Great Rift Valley Golf Resort",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Double or Twin Room - Lodge",
             "description": "Rustic meets modern in our spacious Lodge Rooms, each with a private balcony overlooking a spectacular slice of the Great Rift Valley. Large four-poster beds, hand-made wooden furniture and modern en-suite bathrooms make for an ultra-comfortable stay. Some Lodge Rooms have interconnecting doors, ideal for families and groups."
@@ -462,7 +462,7 @@
             "tourism": "hotel",
             "description": "Karen Country Lodge, located in the heart of Lang'ata, offers a serene retreat with continental breakfast and a charming garden. Enjoy dining at the on-site restaurant or unwind with WiFi and dry cleaning services. The helpful multilingual staff has left a lasting impression on previous guest"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Cottage",
             "features": ["kitchenette", "private bathroom", "living room", "premium TV channels", "separate dining room", "free parking", "81sqm", "1 King bed"],
@@ -505,7 +505,7 @@
             "tourism": "hotel"
             
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Presidential Suite",
             "description": "One Kings Bed",
@@ -560,7 +560,7 @@
             "name": "Thompson Falls Lodge",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Standard Room",
             "description": "You will be surprised by how spacious our standard rooms are. Some of them have one queen bed while others come complete with two beds.We are flexible enough to customize this setup based on your needs. In addition, you can curl up infront of the fire place to warm you up ready for sleep."
@@ -589,7 +589,7 @@
             "name": "Aero Club of East Africa",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Crew Wing",
             "description": "One Kings Bed",
@@ -660,7 +660,7 @@
             "name": "Lake Naivasha Country Club",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Standard Room",
             "description": "Our Standard Room with a choice of a King or twin bed is an ultimate oasis for comfort and relaxation.",
@@ -694,7 +694,7 @@
             "tourism": "hotel",
             "website": "https://severinsafaricamp.com"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Luxury Tent",
             "description": "The Luxury Tents offer a perfect blend of comfort and immersion in nature. Each tent is designed with handmade wooden furniture in a traditional African style, providing an authentic and cozy atmosphere. With a private veranda, you’ll enjoy breathtaking views of the surrounding savanna, where wildlife roams freely. Each tent comes with an en-suite bathroom, running hot and cold water, and a shower, ensuring a comfortable stay while still experiencing the wild beauty of Tsavo. The tents are ideal for those seeking an intimate connection with nature without compromising on comfort.",
@@ -724,7 +724,7 @@
             "name": "Leopard Lodge",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Suites",
             "description": "The Lodge and the rooms are designed in an African architectural style with beautiful animal carvings in the pillars and furniture – blending perfectly together with its surroundings.",
@@ -754,7 +754,7 @@
             "tourism": "hotel",
             "website": "http://www.kentmereclub.com/"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "The Moon Flower Room",
             "description": "The Moon flower Suite at Kentmere Club, Limuru, is a luxurious escape designed for ultimate relaxation. This elegant suite features a spacious bedroom and a separate living area, offering privacy and comfort.",
@@ -796,7 +796,7 @@
             "stars": "2",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Eco Rooms",
             "description": "Our eco rooms offer a perfect blend of rustic charm and modern comfort. Each spacious room is tastefully furnished with handcrafted African-style furniture and features a private balcony overlooking the lush Mathioya River valley, scenic tea farms, and the rolling ridges of the Aberdares. Designed with sustainability and serenity in mind, our eco rooms come with en-suite modern bathrooms, flush toilets, and hot showers for your comfort.",
@@ -838,7 +838,7 @@
             "website": "https://aberdarecountryclub.com/",
             "wheelchair": "limited"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Classic Rooms (Twin | Queen)",
             "description": "One Kings Bed"
@@ -868,7 +868,7 @@
             "tourism": "hotel",
             "description": "Set along the white sands of Garoda Beach, within the protected Watamu Marine National Park, Hemingways Watamu is a refined coastal escape where barefoot luxury meets laid-back charm. Overlooking the Indian Ocean, the property features elegantly appointed rooms and residences, exceptional dining, a botanical spa, and unrivalled access to one of East Africa’s most vibrant marine ecosystems."
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "4 Bedroom Ocean View Penthouse",
             "description": "Duplex layout with expansive sea-view terraces | Two master suites and two twin rooms |Perfect for groups or large families"
@@ -897,7 +897,7 @@
             "stars": "3",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Romantic Honeymoon Package",
             "description": "Escape to paradise and let us set the scene for unforgettable moments together. Our Romance & Honeymoon Package is designed for couples seeking the perfect blend of celebration and relaxation. On arrival, toast your getaway with a chilled bottle of bubbles, then unwind side-by-side with two blissful 1-hour massages in the privacy of your villa."
@@ -958,7 +958,7 @@
             "smoking": "outside",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "River View Tents",
             "description": "Each double tent offers king-size double or twin beds, a bathroom featuring bio-flush toilets and a solar-heated shower, free in-room wifi, a private deck where you have a direct view of the Masai Mara National Reserve."
@@ -1111,7 +1111,7 @@
             "phone": "+254734699698",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Standard King Room",
             "description": "designed with natural materials, local touches, and soft earth tones that echo the surrounding landscape",
@@ -3585,7 +3585,7 @@
             "smoking": "no",
             "tourism": "hotel"
         },
-        "rooms": [
+        "accommodations": [
            {
              "type": ""
             }
@@ -7367,7 +7367,7 @@
             "name": "Msambweni Private Villa II",
             "tourism": "hotel"
         },
-        "rooms": [
+        "accommodations": [
             {
                 "type": "Master Suite I",
                 "description": "Master Suite I is a spacious en-suite room with a private veranda, offering stunning panoramic sea views. The room is air-conditioned and furnished with mosquito nets, ensuring a comfortable stay."
@@ -17764,7 +17764,7 @@
             "website": "https://www.hilton.com/en/hotels/nboknqq-kwetu-nairobi/",
             "wheelchair": "yes"
         },
-        "rooms": [
+        "accommodations": [
             {
             "type": "Superior",
             "description": "One Kings Bed",
@@ -19878,7 +19878,7 @@
             "tourism": "hotel",
             "website": "https://www.thesmithhotels.com/"
         },
-        "rooms": [
+        "accommodations": [
             {
             "type": "Superior",
             "description": "One Kings Bed",
@@ -20610,7 +20610,7 @@
             "name": "Lake Elementaita Serena",
             "tourism": "hotel"
         },
-         "rooms": [
+         "accommodations": [
             {
             "type": "Deluxe King Tent",
             "description": "Each tent features a plush king-sized bed with mosquito netting, a cosy sitting area and décor inspired by classic British heritage.",
@@ -22184,7 +22184,7 @@
             "tourism": "hotel",
             "website": "https://www.serenahotels.com/serenamara/en/default.html"
         },
-        "rooms": [
+        "accommodations": [
             {
             "type": "Standard Double Room",
             "description": "Overlooking the endless savannah from a private balcony, each Standard Double Room offers a quiet retreat with uninterrupted views of the Maasai Mara.",
@@ -22741,7 +22741,7 @@
             "tourism": "hotel",
             "website": "https://www.serenahotels.com/serenaamboseli/en/default.html"
         },
-        "rooms": [
+        "accommodations": [
             {
             "type": "Standard King Room",
             "description": "Blending traditional charm with modern comfort, our Standard King Rooms feature a king-size bed and a private balcony with sweeping views of the Amboseli plains.",
