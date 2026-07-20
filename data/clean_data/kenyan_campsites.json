@@ -1,0 +1,3839 @@
+[
+    {
+        "metadata": {
+            "name": "Ol Dubai Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8738,
+        "longitude": 36.3624,
+        "name": "Ol Dubai Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Makalia Falls Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4909,
+        "longitude": 36.0823,
+        "name": "Makalia Falls Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Crayfish Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.832,
+        "longitude": 36.3516,
+        "name": "Crayfish Camp"
+    },
+    {
+        "metadata": {
+            "name": "Endachata Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8734,
+        "longitude": 36.34,
+        "name": "Endachata Special Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Upper Kaptelit",
+            "addr:street": "Roberts Camp Road",
+            "camp_site": "reception",
+            "caravans": "yes",
+            "name": "Robert's Camp",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6131,
+        "longitude": 36.0228,
+        "name": "Robert's Camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "Tiwi Beach",
+            "addr:country": "KE",
+            "addr:street": "Twiga Lodge Road",
+            "amenity": "restaurant,bar",
+            "caravans": "yes",
+            "drinking_water": "yes",
+            "name": "Twiga Lodge",
+            "power_supply": "yes",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.2404,
+        "longitude": 39.6028,
+        "name": "Twiga Lodge"
+    },
+    {
+        "metadata": {
+            "name": "Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.6902,
+        "longitude": 37.2189,
+        "name": "Public Campsite"
+    },
+    {
+        "metadata": {
+            "alt_name": "Old Moses Camp",
+            "name": "Moses Rock",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.0496,
+        "longitude": 37.2869,
+        "name": "Moses Rock"
+    },
+    {
+        "metadata": {
+            "name": "KWS Chogoria Forest Station Campsite",
+            "source": "GPS",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.2396,
+        "longitude": 37.5926,
+        "name": "KWS Chogoria Forest Station Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Top Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8294,
+        "longitude": 36.3342,
+        "name": "Top Camp"
+    },
+    {
+        "metadata": {
+            "name": "Lake Ellis Campsite (Mount Kenya)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1248,
+        "longitude": 37.4028,
+        "name": "Lake Ellis Campsite (Mount Kenya)"
+    },
+    {
+        "metadata": {
+            "name": "Mintos Hut",
+            "operator": "KWS",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1432,
+        "longitude": 37.3439,
+        "name": "Mintos Hut"
+    },
+    {
+        "metadata": {
+            "ele": "4490",
+            "name": "Two Tarns",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1569,
+        "longitude": 37.2987,
+        "name": "Two Tarns"
+    },
+    {
+        "metadata": {
+            "name": "Austrian Hut Campsite (Mt Kenya)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1595,
+        "longitude": 37.3142,
+        "name": "Austrian Hut Campsite (Mt Kenya)"
+    },
+    {
+        "metadata": {
+            "name": "Lewa Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2432,
+        "longitude": 37.3896,
+        "name": "Lewa Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mount Longonot National park",
+            "name": "Oloongonot Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8922,
+        "longitude": 36.4719,
+        "name": "Oloongonot Public Campsite"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Olololo Gate Public Camping",
+            "openfire": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2606,
+        "longitude": 34.999,
+        "name": "Olololo Gate Public Camping"
+    },
+    {
+        "metadata": {
+            "addr:city": "Kakamega South",
+            "addr:country": "KE",
+            "cabins": "yes",
+            "caravans": "yes",
+            "drinking_water": "yes",
+            "name": "Kakamega Forest Resthouse & Campsite",
+            "shower": "cold",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2362,
+        "longitude": 34.8654,
+        "name": "Kakamega Forest Resthouse & Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Udo's Camping and Bandas",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.3528,
+        "longitude": 34.8642,
+        "name": "Udo's Camping and Bandas"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Zephania Nyumba Kino caves",
+            "phone": "+254710118358",
+            "tourism": "camp_site",
+            "wheelchair": "no"
+        },
+        "latitude": -3.3908,
+        "longitude": 38.3655,
+        "name": "Zephania Nyumba Kino caves"
+    },
+    {
+        "metadata": {
+            "name": "Oldarpoi Maasai Safari Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5117,
+        "longitude": 35.3568,
+        "name": "Oldarpoi Maasai Safari Camp"
+    },
+    {
+        "metadata": {
+            "name": "Kembu Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3004,
+        "longitude": 35.9006,
+        "name": "Kembu Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Thomson Falls Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0457,
+        "longitude": 36.3678,
+        "name": "Thomson Falls Campsite"
+    },
+    {
+        "metadata": {
+            "comment": "nice place near the river, but bad restrooms",
+            "name": "Umoja Camp Site",
+            "stars": "1",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6311,
+        "longitude": 37.6603,
+        "name": "Umoja Camp Site"
+    },
+    {
+        "metadata": {
+            "addr:street": "Samburu National Reserve",
+            "name": "Samburu Public Campsite",
+            "operator": "Samburu County",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.5659,
+        "longitude": 37.5348,
+        "name": "Samburu Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Dorobo campsite",
+            "stars": "4",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4013,
+        "longitude": 35.3708,
+        "name": "Dorobo campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mara Bush Camp",
+            "tourism": "camp_site",
+            "website": "http://www.marabushcamp.com"
+        },
+        "latitude": -1.4032,
+        "longitude": 35.1103,
+        "name": "Mara Bush Camp"
+    },
+    {
+        "metadata": {
+            "name": "Ndololo Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3594,
+        "longitude": 38.6462,
+        "name": "Ndololo Camp"
+    },
+    {
+        "metadata": {
+            "name": "Sarara",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.0124,
+        "longitude": 37.3951,
+        "name": "Sarara"
+    },
+    {
+        "metadata": {
+            "name": "CDF chiefs camp",
+            "opening_hours": "08:00-17:00",
+            "security:chiefs_camp": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.259,
+        "longitude": 36.8713,
+        "name": "CDF chiefs camp"
+    },
+    {
+        "metadata": {
+            "name": "Sandai Farm Campsite",
+            "operator": "African Footprints Limited",
+            "tourism": "camp_site",
+            "website": "https://www.africanfootprints.de/en/sandai-farm/camping/"
+        },
+        "latitude": -0.2928,
+        "longitude": 36.9512,
+        "name": "Sandai Farm Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Bantu Lodge",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1134,
+        "longitude": 37.0434,
+        "name": "Bantu Lodge"
+    },
+    {
+        "metadata": {
+            "fee": "no",
+            "name": "Judmeier Campsite",
+            "operator": "KWS Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.0471,
+        "longitude": 37.2895,
+        "name": "Judmeier Campsite"
+    },
+    {
+        "metadata": {
+            "email": "lemunyete@wananchi.com",
+            "name": "Salato Women's Group Campsite",
+            "phone": "+254 721 565383",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.7406,
+        "longitude": 37.2942,
+        "name": "Salato Women's Group Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Seriak Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.7397,
+        "longitude": 37.2923,
+        "name": "Seriak Camp"
+    },
+    {
+        "metadata": {
+            "email": "info@savagewilderness.org",
+            "internet_access": "no",
+            "name": "Savage Wilderness",
+            "operator": "Savage Wilderness",
+            "phone": "+254 (0) 20 712 1590",
+            "smoking": "isolated",
+            "tourism": "camp_site",
+            "website": "https://savagewilderness.org/camp/contactUs.php",
+            "wheelchair": "yes"
+        },
+        "latitude": -0.7075,
+        "longitude": 37.2451,
+        "name": "Savage Wilderness"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Rapids Camp",
+            "operator": "Rapids Camp",
+            "smoking": "yes",
+            "tourism": "camp_site",
+            "wheelchair": "yes"
+        },
+        "latitude": -0.6963,
+        "longitude": 37.2425,
+        "name": "Rapids Camp"
+    },
+    {
+        "metadata": {
+            "amenity": "shelter",
+            "name": "Liki North",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1042,
+        "longitude": 37.3036,
+        "name": "Liki North"
+    },
+    {
+        "metadata": {
+            "name": "Camp Henry Marsabit",
+            "operator": "Henry",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.3457,
+        "longitude": 37.9657,
+        "name": "Camp Henry Marsabit"
+    },
+    {
+        "metadata": {
+            "name": "Ebenezer Guest House",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.0011,
+        "longitude": 37.5064,
+        "name": "Ebenezer Guest House"
+    },
+    {
+        "metadata": {
+            "internet_access": "wlan",
+            "name": "Fisherman's Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8263,
+        "longitude": 36.3352,
+        "name": "Fisherman's Camp"
+    },
+    {
+        "metadata": {
+            "name": "Ol Kirimatian Conservancy Camp Site",
+            "operator": "Ol Kirimatian Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.8499,
+        "longitude": 36.1017,
+        "name": "Ol Kirimatian Conservancy Camp Site"
+    },
+    {
+        "metadata": {
+            "name": "Osotua Campsite",
+            "tourism": "camp_site",
+            "website": "https://www.facebook.com/osotua.campsite"
+        },
+        "latitude": -1.0666,
+        "longitude": 36.5897,
+        "name": "Osotua Campsite"
+    },
+    {
+        "metadata": {
+            "caravans": "yes",
+            "description": "Campers on yard behind lodge.",
+            "drinking_water": "yes",
+            "internet_access": "wlan",
+            "name": "Tuliahouse Backpackers",
+            "openfire": "no",
+            "power_supply": "yes",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site",
+            "wheelchair": "limited"
+        },
+        "latitude": -4.0253,
+        "longitude": 39.7206,
+        "name": "Tuliahouse Backpackers"
+    },
+    {
+        "metadata": {
+            "name": "Outward Bound",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.9433,
+        "longitude": 37.5077,
+        "name": "Outward Bound"
+    },
+    {
+        "metadata": {
+            "name": "Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.0964,
+        "longitude": 36.0922,
+        "name": "Camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "Loiyangalani",
+            "addr:country": "KE",
+            "addr:street": "Loiyangalani",
+            "amenity": "restaurant;bar",
+            "cabins": "yes",
+            "drinking_water": "yes",
+            "name": "Palm Shade Camp",
+            "phone": "‪+254 726 714768‬",
+            "power_supply": "yes",
+            "shower": "cold",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.7562,
+        "longitude": 36.7211,
+        "name": "Palm Shade Camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "South Horr",
+            "addr:country": "KE",
+            "amenity": "restaurant;bar",
+            "caravans": "yes",
+            "drinking_water": "yes",
+            "name": "Samburu Sports Centre",
+            "shower": "cold",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.1067,
+        "longitude": 36.9238,
+        "name": "Samburu Sports Centre"
+    },
+    {
+        "metadata": {
+            "addr:city": "Maralal",
+            "addr:country": "KE",
+            "cabins": "yes",
+            "caravans": "yes",
+            "description": "Camping behind lodge",
+            "drinking_water": "yes",
+            "name": "Yare Safari Lodge",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.059,
+        "longitude": 36.7108,
+        "name": "Yare Safari Lodge"
+    },
+    {
+        "metadata": {
+            "addr:city": "Watamu",
+            "addr:country": "KE",
+            "cabins": "yes",
+            "caravans": "yes",
+            "drinking_water": "yes",
+            "name": "Ocean Sports",
+            "power_supply": "yes",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3601,
+        "longitude": 40.0076,
+        "name": "Ocean Sports"
+    },
+    {
+        "metadata": {
+            "camp_type": "informal",
+            "description": "Beautiful site with view over Turkana Lake.",
+            "impromptu": "yes",
+            "name": "Bush camp Lake Turkana",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.9605,
+        "longitude": 36.4591,
+        "name": "Bush camp Lake Turkana"
+    },
+    {
+        "metadata": {
+            "camp_type": "informal",
+            "impromptu": "yes",
+            "name": "Bush camp Naiberi River",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4495,
+        "longitude": 35.4226,
+        "name": "Bush camp Naiberi River"
+    },
+    {
+        "metadata": {
+            "name": "Eldoret River Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4483,
+        "longitude": 35.4476,
+        "name": "Eldoret River Camp"
+    },
+    {
+        "metadata": {
+            "camp_type": "informal",
+            "impromptu": "yes",
+            "name": "Bush camp Samburu",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.5301,
+        "longitude": 37.6349,
+        "name": "Bush camp Samburu"
+    },
+    {
+        "metadata": {
+            "name": "Tiva River Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.4326,
+        "longitude": 38.443,
+        "name": "Tiva River Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Bondhei Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.8281,
+        "longitude": 40.6825,
+        "name": "Bondhei Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Camel Trekking Base Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5803,
+        "longitude": 36.5487,
+        "name": "Camel Trekking Base Camp"
+    },
+    {
+        "metadata": {
+            "name": "Aruba Mara Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4417,
+        "longitude": 35.2084,
+        "name": "Aruba Mara Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Meltingpot Bush Camp",
+            "tourism": "camp_site",
+            "website": "https://www.meltingpotsafaris.com/"
+        },
+        "latitude": -1.2511,
+        "longitude": 35.0323,
+        "name": "Meltingpot Bush Camp"
+    },
+    {
+        "metadata": {
+            "name": "Kananga River Camp",
+            "operator": "Kananga",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4282,
+        "longitude": 35.171,
+        "name": "Kananga River Camp"
+    },
+    {
+        "metadata": {
+            "name": "KWS Fence attendants Camps",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.6138,
+        "longitude": 37.8729,
+        "name": "KWS Fence attendants Camps"
+    },
+    {
+        "metadata": {
+            "name": "Intrepid Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4141,
+        "longitude": 35.1105,
+        "name": "Intrepid Camp"
+    },
+    {
+        "metadata": {
+            "internet_access": "wlan",
+            "name": "The Comfort Hotel Camping",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0171,
+        "longitude": 37.0785,
+        "name": "The Comfort Hotel Camping"
+    },
+    {
+        "metadata": {
+            "name": "kk security",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.6022,
+        "longitude": 39.884,
+        "name": "kk security"
+    },
+    {
+        "metadata": {
+            "name": "Ratpanat safari camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4691,
+        "longitude": 35.3038,
+        "name": "Ratpanat safari camp"
+    },
+    {
+        "metadata": {
+            "name": "Leisure Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4595,
+        "longitude": 35.2506,
+        "name": "Leisure Camp"
+    },
+    {
+        "metadata": {
+            "name": "Balloon Safaris Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4707,
+        "longitude": 35.2806,
+        "name": "Balloon Safaris Camp"
+    },
+    {
+        "metadata": {
+            "addr:street": "Kalama Conservancy",
+            "fee": "yes",
+            "name": "Lgoita Rocks Campsite",
+            "operator": "Kalama Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7281,
+        "longitude": 37.5775,
+        "name": "Lgoita Rocks Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Kalama Conservancy",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Lbaa Campsite",
+            "opening_hours": "24/7",
+            "operator": "Kalama Conservancy",
+            "tourism": "camp_site",
+            "website": "https://www.nrt-kenya.org/"
+        },
+        "latitude": 0.702,
+        "longitude": 37.5912,
+        "name": "Lbaa Campsite"
+    },
+    {
+        "metadata": {
+            "email": "tourism@nrt-kenya.org",
+            "name": "Belindas Campsite",
+            "operator": "Westgate Conservancy",
+            "tourism": "camp_site",
+            "website": "https://www.nrt-kenya.org/"
+        },
+        "latitude": 0.6608,
+        "longitude": 37.3273,
+        "name": "Belindas Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Westgate Conservancy HQ Campsite",
+            "operator": "Westgate Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6458,
+        "longitude": 37.3583,
+        "name": "Westgate Conservancy HQ Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Naibunga Conservancy",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Naibunga Conservancy Sunyai Campsite",
+            "opening_hours": "24/7",
+            "phone": "+254 70 1295357;+254 70 0313084",
+            "tourism": "camp_site",
+            "website": "https://www.nrt-kenya.org/"
+        },
+        "latitude": 0.4578,
+        "longitude": 37.0904,
+        "name": "Naibunga Conservancy Sunyai Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Naibunga Conservancy",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Tiemamut Campsite",
+            "operator": "Naibunga Conservancy",
+            "tourism": "camp_site",
+            "website": "https://www.nrt-kenya.org/"
+        },
+        "latitude": 0.5467,
+        "longitude": 36.9715,
+        "name": "Tiemamut Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Naibunga Conservancy",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Naibunga Conservancy Wakumbe Hills Campsite",
+            "opening_hours": "24/7",
+            "operator": "Naibunga Conservancy",
+            "phone": "+254-701-295357",
+            "tourism": "camp_site",
+            "website": "http://www.thebignorth.org"
+        },
+        "latitude": 0.4764,
+        "longitude": 37.1362,
+        "name": "Naibunga Conservancy Wakumbe Hills Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Naibunga Conservancy",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Il Polei Campsite",
+            "opening_hours": "24/7",
+            "operator": "Naibunga Conservancy",
+            "phone": "+254-701-295357",
+            "tourism": "camp_site",
+            "website": "https://www.nrt-kenya.org/"
+        },
+        "latitude": 0.3808,
+        "longitude": 37.06,
+        "name": "Il Polei Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lake Paradise Alternate Campsite",
+            "name:en": "Lake Paradise Campsite",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site",
+            "website": "http://www.kws.org"
+        },
+        "latitude": 2.2586,
+        "longitude": 37.9356,
+        "name": "Lake Paradise Alternate Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Nakuprat Gotu",
+            "addr:street": "Shaba-Nakuprat-Gotu Road",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Nakuprat - Gotu Jeremy's Campsite",
+            "operator": "Nakuprat - Gotu Conservancy",
+            "tourism": "camp_site",
+            "website": "http://www.thebignorth.org"
+        },
+        "latitude": 0.7512,
+        "longitude": 37.9655,
+        "name": "Nakuprat - Gotu Jeremy's Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Chyulu Hills National Park",
+            "name": "Chyulu Hills Satellite Campsite",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.5912,
+        "longitude": 37.8575,
+        "name": "Chyulu Hills Satellite Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Chyulu Hills National Park",
+            "name": "Chyulu Hills HQ Campsite",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.4992,
+        "longitude": 37.9398,
+        "name": "Chyulu Hills HQ Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Iten",
+            "name": "Lelin Overland Campsite",
+            "phone": "+254 722 900 848",
+            "tourism": "camp_site",
+            "tourism_1": "bar",
+            "tourism_2": "hotel"
+        },
+        "latitude": 0.6349,
+        "longitude": 35.5249,
+        "name": "Lelin Overland Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Lake Bogoria",
+            "addr:street": "Lake Bogora National Reserve",
+            "name": "Lake Bogoria Clifftop Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2531,
+        "longitude": 36.0829,
+        "name": "Lake Bogoria Clifftop Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Gilgil",
+            "addr:street": "Nairobi-Nakuru Road",
+            "name": "Lake Elementaita Lodge Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4669,
+        "longitude": 36.2777,
+        "name": "Lake Elementaita Lodge Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Crater Lake Sanctuary Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7835,
+        "longitude": 36.2573,
+        "name": "Crater Lake Sanctuary Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Chyulu Hills National Park",
+            "name": "Kisula Caves Campsite",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.5284,
+        "longitude": 37.8533,
+        "name": "Kisula Caves Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Possible Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.2664,
+        "longitude": 37.9309,
+        "name": "Possible Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Hells Gate National Park",
+            "name": "Naiburta Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8677,
+        "longitude": 36.3507,
+        "name": "Naiburta Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kimana Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.737,
+        "longitude": 37.3778,
+        "name": "Kimana Campsite"
+    },
+    {
+        "metadata": {
+            "addr:housenumber": "Mokoyeti Rd W, Nairobi",
+            "name": "Wildebeest Eco Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3276,
+        "longitude": 36.7557,
+        "name": "Wildebeest Eco Camp"
+    },
+    {
+        "metadata": {
+            "name": "Kakamega Forest Resthouse & Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2334,
+        "longitude": 34.9008,
+        "name": "Kakamega Forest Resthouse & Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Sera Conservancy",
+            "addr:street": "Sera Conservancy",
+            "name": "Sera Conservancy - Tumot Campsite",
+            "operator": "Sera Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.1932,
+        "longitude": 37.7849,
+        "name": "Sera Conservancy - Tumot Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Sera Conservancy",
+            "name": "Sera Conservancy - Rhino Sanctuary Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.1009,
+        "longitude": 37.7786,
+        "name": "Sera Conservancy - Rhino Sanctuary Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Sera Conservancy",
+            "addr:street": "Sera Conservancy",
+            "description": "Well shaded campsite under Doum Palms. Very close to wildlife watering hole.",
+            "name": "Sera Conservancy - Olosuwan Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.1245,
+        "longitude": 37.8059,
+        "name": "Sera Conservancy - Olosuwan Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Kalama Conservancy",
+            "description": "Campsite under a large Acacia tree with slight elevation. Views of sunrise in the morning.",
+            "name": "Lpus Campsite",
+            "operator": "Kalama Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6946,
+        "longitude": 37.5812,
+        "name": "Lpus Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kalama Campsite",
+            "operator": "Kalama Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6968,
+        "longitude": 37.5793,
+        "name": "Kalama Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lenchada Tourist Camp",
+            "name:de": "Lenchada Tourist Camp",
+            "name:en": "Lenchada Tourist Camp",
+            "phone": "0722706584",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5998,
+        "longitude": 35.3848,
+        "name": "Lenchada Tourist Camp"
+    },
+    {
+        "metadata": {
+            "check_date": "2024-12-22",
+            "name": "NVA - Carnelly's Camp",
+            "name:en": "NVA - Carnelly's Camp",
+            "payment:cards": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "tourism": "camp_site",
+            "website": "https://campcarnelleys.com"
+        },
+        "latitude": -0.8276,
+        "longitude": 36.3376,
+        "name": "NVA - Carnelly's Camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "Namunyak Conservancy 2",
+            "addr:housenumber": "Namunyak Conservancy",
+            "addr:street": "Namunyak Conservancy",
+            "name": "Debrazza Campsite",
+            "phone": "+254-701-295357",
+            "tourism": "camp_site",
+            "tourism_1": "attraction",
+            "website": "http://www.thebignorth.org"
+        },
+        "latitude": 1.3312,
+        "longitude": 37.2198,
+        "name": "Debrazza Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mukogodo Forest",
+            "addr:street": "Mukogodo Forest",
+            "backcountry": "yes",
+            "charge": "2000 KES",
+            "fee": "yes",
+            "name": "Mukogodo Forest Nikijabe Campsite",
+            "phone": "+254 71 0788142;+254 72 3155986",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.385,
+        "longitude": 37.2956,
+        "name": "Mukogodo Forest Nikijabe Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mukogodo Forest",
+            "name": "Mukogodo Forest Sarara Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.3108,
+        "longitude": 37.3126,
+        "name": "Mukogodo Forest Sarara Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Dirisha Private Campsite",
+            "operator": "http://maratriangle.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3317,
+        "longitude": 34.9949,
+        "name": "Dirisha Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Kiboko Private Campsite",
+            "operator": "http://maratriangle.org/",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4911,
+        "longitude": 35.036,
+        "name": "Kiboko Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Olarro Private Campsite",
+            "operator": "http://maratriangle.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4714,
+        "longitude": 35.0346,
+        "name": "Olarro Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Maji Ya Ndege Private Campsite",
+            "operator": "http://maratriangle.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3396,
+        "longitude": 34.9894,
+        "name": "Maji Ya Ndege Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Ndovu Private Campsite",
+            "operator": "http://maratriangle.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3533,
+        "longitude": 34.9928,
+        "name": "Ndovu Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mara Triangle",
+            "name": "Kishanga Private Campsite",
+            "operator": "maratriangle.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.665,
+        "longitude": 35.3978,
+        "name": "Kishanga Private Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Mount Longonot National Park",
+            "name": "Lakeview Campsite",
+            "operator": "kws.org",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8887,
+        "longitude": 36.4593,
+        "name": "Lakeview Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Naivasha",
+            "addr:street": "Crater Lake Sanctuary",
+            "name": "Wedding Site Campsite",
+            "operator": "Crater Lake Sanctuary",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7716,
+        "longitude": 36.2863,
+        "name": "Wedding Site Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Naivasha",
+            "addr:street": "Crater Lake Sanctuary",
+            "name": "Gazebo Campsite",
+            "operator": "Crater Lake Sanctuary",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7738,
+        "longitude": 36.2667,
+        "name": "Gazebo Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Shaba National Reserve",
+            "name": "Shaba Robin Hurts Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6785,
+        "longitude": 37.838,
+        "name": "Shaba Robin Hurts Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Ndololo Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3609,
+        "longitude": 38.6458,
+        "name": "Ndololo Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lenchanda",
+            "name:en": "Lenchanda",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6003,
+        "longitude": 35.3841,
+        "name": "Lenchanda"
+    },
+    {
+        "metadata": {
+            "name": "Oloiden Campsite",
+            "name:en": "Oloiden Campsite",
+            "phone": "+254 702 993131",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8127,
+        "longitude": 36.2659,
+        "name": "Oloiden Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lake Naivasha YMCA Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8336,
+        "longitude": 36.3644,
+        "name": "Lake Naivasha YMCA Camp"
+    },
+    {
+        "metadata": {
+            "internet_access": "wlan",
+            "name": "Rovera Camps",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3185,
+        "longitude": 36.8586,
+        "name": "Rovera Camps"
+    },
+    {
+        "metadata": {
+            "name": "Rovers Camp",
+            "name:en": "Rovers Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3278,
+        "longitude": 36.8703,
+        "name": "Rovers Camp"
+    },
+    {
+        "metadata": {
+            "name": "Amboseli Bush Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7884,
+        "longitude": 37.4299,
+        "name": "Amboseli Bush Camp"
+    },
+    {
+        "metadata": {
+            "name": "KWS Shipton's Campsite",
+            "name:en": "KWS campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1392,
+        "longitude": 37.3147,
+        "name": "KWS Shipton's Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Tea hotel campsite",
+            "name:en": "Tea hotel campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3661,
+        "longitude": 35.2918,
+        "name": "Tea hotel campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Tsavo West National Park",
+            "name": "Lake Jipe Bandas & Campsite",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site",
+            "website": "http://www.kws.org"
+        },
+        "latitude": -3.6146,
+        "longitude": 37.7765,
+        "name": "Lake Jipe Bandas & Campsite"
+    },
+    {
+        "metadata": {
+            "addr:housenumber": "Tsavo West National Park",
+            "name": "Kamboyo Public Campsite (Tsavo West)",
+            "name:en": "Kamboyo Campsite (Tsavo West)",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7545,
+        "longitude": 38.1151,
+        "name": "Kamboyo Public Campsite (Tsavo West)"
+    },
+    {
+        "metadata": {
+            "name": "Masai Eco Lodge",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.9968,
+        "longitude": 36.7977,
+        "name": "Masai Eco Lodge"
+    },
+    {
+        "metadata": {
+            "addr:street": "Amboseli National Park",
+            "name": "Olgulului Group Ranch Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.549,
+        "longitude": 37.13,
+        "name": "Olgulului Group Ranch Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kipipiri Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.493,
+        "longitude": 36.6153,
+        "name": "Kipipiri Camp"
+    },
+    {
+        "metadata": {
+            "name": "Megalith Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.8588,
+        "longitude": 38.4797,
+        "name": "Megalith Camp"
+    },
+    {
+        "metadata": {
+            "name": "Rongai community campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.0318,
+        "longitude": 34.778,
+        "name": "Rongai community campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kami Campsite",
+            "name:en": "Kami Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1442,
+        "longitude": 37.3106,
+        "name": "Kami Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kalacha AIC Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.1353,
+        "longitude": 37.4264,
+        "name": "Kalacha AIC Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lake Paradise Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.2636,
+        "longitude": 37.9306,
+        "name": "Lake Paradise Special Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Campi Ya Arusi",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1873,
+        "longitude": 37.1605,
+        "name": "Campi Ya Arusi"
+    },
+    {
+        "metadata": {
+            "name": "Nyati Private Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3754,
+        "longitude": 36.8908,
+        "name": "Nyati Private Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Bongo Private Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3724,
+        "longitude": 36.8921,
+        "name": "Bongo Private Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mwea NR Mavuria Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8218,
+        "longitude": 37.6453,
+        "name": "Mwea NR Mavuria Special Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mwea NR Hippo Point Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8237,
+        "longitude": 37.6397,
+        "name": "Mwea NR Hippo Point Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mwea NR Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8223,
+        "longitude": 37.6407,
+        "name": "Mwea NR Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mwea NR Sylvester Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8255,
+        "longitude": 37.6245,
+        "name": "Mwea NR Sylvester Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Saiwa Swamp NP Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.0941,
+        "longitude": 35.1181,
+        "name": "Saiwa Swamp NP Public Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Shaba NR",
+            "addr:street": "Shaba NR",
+            "name": "Shaba Daku Dima Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6734,
+        "longitude": 37.8161,
+        "name": "Shaba Daku Dima Special Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Shaba NR",
+            "addr:street": "Shaba NR",
+            "name": "Shaba Funan Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6341,
+        "longitude": 37.8227,
+        "name": "Shaba Funan Special Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kudu Hills Nature Park",
+            "phone": "=254 729 514051",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.9295,
+        "longitude": 36.6267,
+        "name": "Kudu Hills Nature Park"
+    },
+    {
+        "metadata": {
+            "name": "Peninsula",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.952,
+        "longitude": 36.2458,
+        "name": "Peninsula"
+    },
+    {
+        "metadata": {
+            "addr:city": "Laisamis",
+            "camp_site": "basic",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Melako Conservancy - Laisamis Campsite",
+            "phone": "+254 (0) 701 295 357",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.5735,
+        "longitude": 37.7939,
+        "name": "Melako Conservancy - Laisamis Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Melako",
+            "addr:street": "Melako",
+            "camp_site": "basic",
+            "email": "tourism@nrt-kenya.org",
+            "name": "Melako Conservancy - Lchoro Campsite",
+            "phone": "+254 (0) 701 295 357",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.4167,
+        "longitude": 37.7891,
+        "name": "Melako Conservancy - Lchoro Campsite"
+    },
+    {
+        "metadata": {
+            "email": "info@lalanasilodge.co.ke",
+            "name": "Lalanasi Lodge & Tented Camp",
+            "phone": "+254797118780",
+            "tourism": "camp_site",
+            "website": "https://lalanasilodge.co.ke/"
+        },
+        "latitude": -0.0295,
+        "longitude": 36.5808,
+        "name": "Lalanasi Lodge & Tented Camp"
+    },
+    {
+        "metadata": {
+            "addr:street": "Marigat-Loboi Road",
+            "name": "Lake Bogoria Lakeside Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2473,
+        "longitude": 36.0844,
+        "name": "Lake Bogoria Lakeside Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kamanga",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7447,
+        "longitude": 37.8768,
+        "name": "Kamanga"
+    },
+    {
+        "metadata": {
+            "name": "Loisaba Acacia Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6704,
+        "longitude": 36.7604,
+        "name": "Loisaba Acacia Campsite"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Gikururu Private Campsite",
+            "note": "Campsite right next to river and a waterfall, no shade.",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4697,
+        "longitude": 36.7179,
+        "name": "Gikururu Private Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Op",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7939,
+        "longitude": 37.8943,
+        "name": "Op"
+    },
+    {
+        "metadata": {
+            "name": "Op",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7901,
+        "longitude": 37.8961,
+        "name": "Op"
+    },
+    {
+        "metadata": {
+            "name": "Op",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7393,
+        "longitude": 37.9047,
+        "name": "Op"
+    },
+    {
+        "metadata": {
+            "name": "Crocodile Camping",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.444,
+        "longitude": 35.21,
+        "name": "Crocodile Camping"
+    },
+    {
+        "metadata": {
+            "name": "campsite by waterfall in Borana",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2498,
+        "longitude": 37.3617,
+        "name": "campsite by waterfall in Borana"
+    },
+    {
+        "metadata": {
+            "name": "Pan paper",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6938,
+        "longitude": 34.9825,
+        "name": "Pan paper"
+    },
+    {
+        "metadata": {
+            "name": "Mackinder Camping",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1672,
+        "longitude": 37.297,
+        "name": "Mackinder Camping"
+    },
+    {
+        "metadata": {
+            "name": "Lake Michaelson Campsite (Mount Kenya)",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1454,
+        "longitude": 37.3489,
+        "name": "Lake Michaelson Campsite (Mount Kenya)"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Fig Tree Public Campsite (Ruma NP)",
+            "openfire": "yes",
+            "operator": "Kenya Wildlife Service",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.6464,
+        "longitude": 34.335,
+        "name": "Fig Tree Public Campsite (Ruma NP)"
+    },
+    {
+        "metadata": {
+            "name": "Buffalo Springs Ololokwe Lookout Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6103,
+        "longitude": 37.6424,
+        "name": "Buffalo Springs Ololokwe Lookout Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Ngong camp junction",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3409,
+        "longitude": 36.5749,
+        "name": "Ngong camp junction"
+    },
+    {
+        "metadata": {
+            "name": "Ngong Sports",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3438,
+        "longitude": 36.6443,
+        "name": "Ngong Sports"
+    },
+    {
+        "metadata": {
+            "name": "Ngong",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3909,
+        "longitude": 36.5712,
+        "name": "Ngong"
+    },
+    {
+        "metadata": {
+            "name": "Fish Eagle",
+            "operator": "Fish Eagle Inn",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8243,
+        "longitude": 36.3342,
+        "name": "Fish Eagle"
+    },
+    {
+        "metadata": {
+            "name": "Kitich Campsite #2",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.1772,
+        "longitude": 37.3311,
+        "name": "Kitich Campsite #2"
+    },
+    {
+        "metadata": {
+            "internet_access": "wlan",
+            "name": "Koros Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.2418,
+        "longitude": 36.9281,
+        "name": "Koros Camp"
+    },
+    {
+        "metadata": {
+            "name": "Elerai Campsite - Kimana Sanctuary",
+            "tourism": "camp_site",
+            "website": "https://www.kimanasanctuary.com/"
+        },
+        "latitude": -2.7338,
+        "longitude": 37.5247,
+        "name": "Elerai Campsite - Kimana Sanctuary"
+    },
+    {
+        "metadata": {
+            "name": "Oltepesi Campsite - Kimana Sanctuary",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7451,
+        "longitude": 37.5469,
+        "name": "Oltepesi Campsite - Kimana Sanctuary"
+    },
+    {
+        "metadata": {
+            "name": "Olchani Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7364,
+        "longitude": 37.5221,
+        "name": "Olchani Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Hill campsite in shampole reserve",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.9677,
+        "longitude": 36.0531,
+        "name": "Hill campsite in shampole reserve"
+    },
+    {
+        "metadata": {
+            "addr:street": "Nairobi - Nakuru Road",
+            "name": "Kisa Adventures",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7939,
+        "longitude": 36.522,
+        "name": "Kisa Adventures"
+    },
+    {
+        "metadata": {
+            "name": "Maasai Mara University",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.0955,
+        "longitude": 35.8582,
+        "name": "Maasai Mara University"
+    },
+    {
+        "metadata": {
+            "description": "lodge and bush camp",
+            "name": "Ziwa Bush Lodge",
+            "phone": "+254721113322",
+            "tourism": "camp_site",
+            "website": "https://www.ziwalodge.com/"
+        },
+        "latitude": -0.3211,
+        "longitude": 36.0118,
+        "name": "Ziwa Bush Lodge"
+    },
+    {
+        "metadata": {
+            "addr:city": "Homa Bay",
+            "addr:street": "Homa Bay-Mbita Road",
+            "name": "view point campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.5268,
+        "longitude": 34.326,
+        "name": "view point campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Redhill",
+            "addr:street": "Limuru Road",
+            "name": "Red Hill Camp Site",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.1745,
+        "longitude": 36.6937,
+        "name": "Red Hill Camp Site"
+    },
+    {
+        "metadata": {
+            "name": "Ngare Ndare Campsite",
+            "tourism": "camp_site",
+            "website": "https://ngarendare.org/"
+        },
+        "latitude": 0.1741,
+        "longitude": 37.3342,
+        "name": "Ngare Ndare Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Nyaburu Chief Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7196,
+        "longitude": 34.5947,
+        "name": "Nyaburu Chief Camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "Athi River",
+            "addr:street": "Nairobi - Mombasa Road",
+            "name": "CRBC S5 Athi River",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4558,
+        "longitude": 36.9995,
+        "name": "CRBC S5 Athi River"
+    },
+    {
+        "metadata": {
+            "addr:city": "Namanga",
+            "addr:street": "Athi River-Namanga Road",
+            "name": "Tizi campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.4513,
+        "longitude": 36.8443,
+        "name": "Tizi campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Nanyuki",
+            "addr:street": "Nyeri-Nanyuki Road",
+            "name": "Camp Mahon Gardens",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.0447,
+        "longitude": 37.0533,
+        "name": "Camp Mahon Gardens"
+    },
+    {
+        "metadata": {
+            "access": "permit",
+            "capacity": "20",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Murera Donga Campsite (Ol Pejeta)",
+            "operator": "Ol Pejeta",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0554,
+        "longitude": 36.9173,
+        "name": "Murera Donga Campsite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "access": "permit",
+            "capacity": "20",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Ol Lerai Campsite (Ol Pejeta)",
+            "operator": "Ol Pejeta",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0362,
+        "longitude": 36.9043,
+        "name": "Ol Lerai Campsite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "access": "permit",
+            "capacity": "30",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Ewaso CampSite (Ol Pejeta)",
+            "operator": "Ol Pejeta",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0356,
+        "longitude": 36.9074,
+        "name": "Ewaso CampSite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "access": "permit",
+            "capacity": "30",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Hippo Hide Campsite (Ol Pejeta)",
+            "operator": "Ol Pejeta",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0322,
+        "longitude": 36.912,
+        "name": "Hippo Hide Campsite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "addr:street": "South Lake Road",
+            "email": "annemuhabi@gmail.com",
+            "name": "The Use-Less Center",
+            "opening_hours": "Mo-Su 07:00-07:00",
+            "phone": "+254718395325",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7843,
+        "longitude": 36.4085,
+        "name": "The Use-Less Center"
+    },
+    {
+        "metadata": {
+            "name": "Eluai Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3967,
+        "longitude": 35.0041,
+        "name": "Eluai Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Tumelewaa camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1969,
+        "longitude": 37.4605,
+        "name": "Tumelewaa camp"
+    },
+    {
+        "metadata": {
+            "addr:street": "C14",
+            "email": "info@wildwonderskenya.com",
+            "internet_access": "wlan",
+            "name": "Talek Bush Camp",
+            "opening_hours": "24/7",
+            "operator": "Mostafa",
+            "phone": "+254741219994",
+            "tourism": "camp_site",
+            "website": "https://www.talekcamp.com/"
+        },
+        "latitude": -1.4398,
+        "longitude": 35.208,
+        "name": "Talek Bush Camp"
+    },
+    {
+        "metadata": {
+            "access": "private",
+            "addr:city": "Bisil",
+            "capacity": "10",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Kichaka Glamping",
+            "operator": "MVE",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.1534,
+        "longitude": 36.8194,
+        "name": "Kichaka Glamping"
+    },
+    {
+        "metadata": {
+            "name": "Amboseli Public Campsite",
+            "name:nl": "KWS camping",
+            "operator": "Kenya Wildlife Service",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.736,
+        "longitude": 37.3701,
+        "name": "Amboseli Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Swara camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.0846,
+        "longitude": 39.2566,
+        "name": "Swara camp"
+    },
+    {
+        "metadata": {
+            "addr:city": "Karagita",
+            "addr:street": "Moi S Lake Road",
+            "name": "She'gadia",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7494,
+        "longitude": 36.433,
+        "name": "She'gadia"
+    },
+    {
+        "metadata": {
+            "name": "Duara Flamingo",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4325,
+        "longitude": 36.2496,
+        "name": "Duara Flamingo"
+    },
+    {
+        "metadata": {
+            "name": "Old camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6996,
+        "longitude": 41.5214,
+        "name": "Old camp"
+    },
+    {
+        "metadata": {
+            "name": "IED",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.687,
+        "longitude": 41.5324,
+        "name": "IED"
+    },
+    {
+        "metadata": {
+            "name": "Bsp start",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6532,
+        "longitude": 41.559,
+        "name": "Bsp start"
+    },
+    {
+        "metadata": {
+            "name": "Sabache Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.8556,
+        "longitude": 37.5472,
+        "name": "Sabache Camp"
+    },
+    {
+        "metadata": {
+            "name": "Chokka gate campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6118,
+        "longitude": 37.6438,
+        "name": "Chokka gate campsite"
+    },
+    {
+        "metadata": {
+            "name": "Women's Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.7571,
+        "longitude": 36.7207,
+        "name": "Women's Camp"
+    },
+    {
+        "metadata": {
+            "name": "ArdhaJilla Campsite and Recreation, Sololo",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.5499,
+        "longitude": 38.6552,
+        "name": "ArdhaJilla Campsite and Recreation, Sololo"
+    },
+    {
+        "metadata": {
+            "name": "Hassan Kohot",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5463,
+        "longitude": 41.5203,
+        "name": "Hassan Kohot"
+    },
+    {
+        "metadata": {
+            "name": "ArdhaJilla Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.5498,
+        "longitude": 38.6554,
+        "name": "ArdhaJilla Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Road to Maili Saba",
+            "name": "Maili Saba",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.2101,
+        "longitude": 36.1165,
+        "name": "Maili Saba"
+    },
+    {
+        "metadata": {
+            "email": "reservations@zebraplainsmara.com",
+            "internet_access": "wlan",
+            "name": "Zebra Plains Mara Camp",
+            "opening_hours": "24/7",
+            "phone": "+254790789122",
+            "tourism": "camp_site",
+            "website": "https://zebraplainscollection.com/"
+        },
+        "latitude": -1.3859,
+        "longitude": 35.2126,
+        "name": "Zebra Plains Mara Camp"
+    },
+    {
+        "metadata": {
+            "name": "Mount Kenya Eco Resource",
+            "phone": "+254 722 172 285",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1088,
+        "longitude": 37.0436,
+        "name": "Mount Kenya Eco Resource"
+    },
+    {
+        "metadata": {
+            "name": "Mwea main camping spot",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8072,
+        "longitude": 37.5967,
+        "name": "Mwea main camping spot"
+    },
+    {
+        "metadata": {
+            "name": "Oseki camp",
+            "operator": "Anne",
+            "tourism": "camp_site",
+            "website": "https://www.osekimaasaimaracamp.com/"
+        },
+        "latitude": -1.5088,
+        "longitude": 35.3599,
+        "name": "Oseki camp"
+    },
+    {
+        "metadata": {
+            "access": "private",
+            "capacity": "30",
+            "charge": "Ksh 500",
+            "fee": "yes",
+            "name": "Kikopey Beach Camp",
+            "payment:cash": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4596,
+        "longitude": 36.2631,
+        "name": "Kikopey Beach Camp"
+    },
+    {
+        "metadata": {
+            "name": "Mara Explorers",
+            "phone": "+254702829931",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4931,
+        "longitude": 35.3607,
+        "name": "Mara Explorers"
+    },
+    {
+        "metadata": {
+            "name": "Sukunua",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2136,
+        "longitude": 35.0295,
+        "name": "Sukunua"
+    },
+    {
+        "metadata": {
+            "name": "Mokoko Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.8543,
+        "longitude": 36.217,
+        "name": "Mokoko Campsite"
+    },
+    {
+        "metadata": {
+            "email": "edwardsampeke@yahoo.com",
+            "name": "Black Eye Camping site",
+            "phone": "+25434061176",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7131,
+        "longitude": 37.252,
+        "name": "Black Eye Camping site"
+    },
+    {
+        "metadata": {
+            "name": "WE4Kenya",
+            "phone": "0713046384",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.6921,
+        "longitude": 37.4231,
+        "name": "WE4Kenya"
+    },
+    {
+        "metadata": {
+            "name": "Mida Eco Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3188,
+        "longitude": 39.9686,
+        "name": "Mida Eco Camp"
+    },
+    {
+        "metadata": {
+            "name": "Chemosusu Dam",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0888,
+        "longitude": 35.6249,
+        "name": "Chemosusu Dam"
+    },
+    {
+        "metadata": {
+            "name": "Oloolua Nature Trail Camping site",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3628,
+        "longitude": 36.7139,
+        "name": "Oloolua Nature Trail Camping site"
+    },
+    {
+        "metadata": {
+            "caravans": "yes",
+            "internet_access": "no",
+            "name": "KWS Outpost Campsite",
+            "operator": "KWS",
+            "sanitary_dump_station": "no",
+            "tents": "yes",
+            "tourism": "camp_site",
+            "wheelchair": "limited"
+        },
+        "latitude": 0.2208,
+        "longitude": 36.137,
+        "name": "KWS Outpost Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kolbio",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.1388,
+        "longitude": 41.2097,
+        "name": "Kolbio"
+    },
+    {
+        "metadata": {
+            "name": "Modika",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3955,
+        "longitude": 39.7476,
+        "name": "Modika"
+    },
+    {
+        "metadata": {
+            "name": "Engineers",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.0738,
+        "longitude": 37.1412,
+        "name": "Engineers"
+    },
+    {
+        "metadata": {
+            "name": "Ijara",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5547,
+        "longitude": 40.5432,
+        "name": "Ijara"
+    },
+    {
+        "metadata": {
+            "name": "Elui Hut special campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.9465,
+        "longitude": 38.2055,
+        "name": "Elui Hut special campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lugard Falls special campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.0467,
+        "longitude": 38.7421,
+        "name": "Lugard Falls special campsite"
+    },
+    {
+        "metadata": {
+            "internet_access": "wlan",
+            "name": "Enkorok Mara Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6321,
+        "longitude": 35.3787,
+        "name": "Enkorok Mara Camp"
+    },
+    {
+        "metadata": {
+            "name": "Heshima Best Camping",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6439,
+        "longitude": 37.6829,
+        "name": "Heshima Best Camping"
+    },
+    {
+        "metadata": {
+            "name": "James's Tiva Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.4319,
+        "longitude": 38.4499,
+        "name": "James's Tiva Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Pool house",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2359,
+        "longitude": 37.0754,
+        "name": "Pool house"
+    },
+    {
+        "metadata": {
+            "name": "Iseiya Public Campsite",
+            "tourism": "camp_site",
+            "website": "https://marabookings.co.ke/campsite/iseiya"
+        },
+        "latitude": -1.4009,
+        "longitude": 35.0179,
+        "name": "Iseiya Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mara West Lodge & Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2646,
+        "longitude": 34.9695,
+        "name": "Mara West Lodge & Campsite"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "name": "Sidai Campsite (Ewaso Enclave Conservancy)",
+            "operator": "Morani Conservancy",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4057,
+        "longitude": 36.9156,
+        "name": "Sidai Campsite (Ewaso Enclave Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Kambi Ya Harusi",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1854,
+        "longitude": 37.1565,
+        "name": "Kambi Ya Harusi"
+    },
+    {
+        "metadata": {
+            "name": "Oldonyo Orok",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.3852,
+        "longitude": 36.8414,
+        "name": "Oldonyo Orok"
+    },
+    {
+        "metadata": {
+            "name": "Amazing Africa Mara Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4295,
+        "longitude": 35.1865,
+        "name": "Amazing Africa Mara Camp"
+    },
+    {
+        "metadata": {
+            "description": "Sand River camp",
+            "name": "JG campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6514,
+        "longitude": 35.2064,
+        "name": "JG campsite"
+    },
+    {
+        "metadata": {
+            "description": "Bush campsite",
+            "name": "Mbogo Campsite (Ol Pejeta)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0456,
+        "longitude": 36.9157,
+        "name": "Mbogo Campsite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "name": "Maasai Mara University",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.0945,
+        "longitude": 35.8582,
+        "name": "Maasai Mara University"
+    },
+    {
+        "metadata": {
+            "group_only": "yes",
+            "name": "KWS Kisumu Impala State Lodge Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1095,
+        "longitude": 34.7461,
+        "name": "KWS Kisumu Impala State Lodge Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Monkey Bridge Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3919,
+        "longitude": 36.2111,
+        "name": "Monkey Bridge Campsite"
+    },
+    {
+        "metadata": {
+            "backcountry": "no",
+            "name": "Nimbus Resort and Campsite",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2885,
+        "longitude": 35.8082,
+        "name": "Nimbus Resort and Campsite"
+    },
+    {
+        "metadata": {
+            "name": "N'giliriti Campsite (Ol Maisor)",
+            "operator": "Ol Maisor Farm",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4142,
+        "longitude": 36.6581,
+        "name": "N'giliriti Campsite (Ol Maisor)"
+    },
+    {
+        "metadata": {
+            "group_only": "yes",
+            "name": "Suvia Utwae",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.6668,
+        "longitude": 38.4665,
+        "name": "Suvia Utwae"
+    },
+    {
+        "metadata": {
+            "email": "info@olailepomara.com",
+            "name": "Olailepo Mara Camp",
+            "phone": "+254 739 551 366",
+            "tourism": "camp_site",
+            "website": "https://olailepomara.com/"
+        },
+        "latitude": -1.6108,
+        "longitude": 35.3881,
+        "name": "Olailepo Mara Camp"
+    },
+    {
+        "metadata": {
+            "name": "Sentrim Mara Lodge",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.5343,
+        "longitude": 35.3524,
+        "name": "Sentrim Mara Lodge"
+    },
+    {
+        "metadata": {
+            "name": "Sentrim Amboseli Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7424,
+        "longitude": 37.3763,
+        "name": "Sentrim Amboseli Camp"
+    },
+    {
+        "metadata": {
+            "access": "yes",
+            "capacity:persons": "over 500",
+            "capacity:tents": "10",
+            "fee": "no",
+            "name": "campshade lwanda SDA",
+            "operator": "church",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.7548,
+        "longitude": 34.0945,
+        "name": "campshade lwanda SDA"
+    },
+    {
+        "metadata": {
+            "name": "Nairobi East church",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2983,
+        "longitude": 36.8814,
+        "name": "Nairobi East church"
+    },
+    {
+        "metadata": {
+            "name": "Arcadia",
+            "name:en": "Arcacia",
+            "tourism": "camp_site",
+            "website": "http://www.sanctuaryfarmkenya.com/index.php/the-acacia-campsite"
+        },
+        "latitude": -0.7893,
+        "longitude": 36.4191,
+        "name": "Arcadia"
+    },
+    {
+        "metadata": {
+            "name": "Shepards Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8874,
+        "longitude": 36.4746,
+        "name": "Shepards Camp"
+    },
+    {
+        "metadata": {
+            "name": "Ruhuruhini KWS public campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3878,
+        "longitude": 36.8176,
+        "name": "Ruhuruhini KWS public campsite"
+    },
+    {
+        "metadata": {
+            "camp_site": "standard",
+            "drinking_water": "yes",
+            "fee": "yes",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "kitchen": "yes",
+            "name": "Piloki Farm",
+            "nudism": "no",
+            "operator": "Sandy",
+            "phone": "+254 711 419252",
+            "picnic_table": "yes",
+            "power_supply": "limited",
+            "sanitary_dump_station": "no",
+            "shower": "hot",
+            "swimming_pool": "no",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site",
+            "wheelchair": "limited"
+        },
+        "latitude": 0.2191,
+        "longitude": 36.404,
+        "name": "Piloki Farm"
+    },
+    {
+        "metadata": {
+            "email": "info@loldia-eburru.com",
+            "name": "Loldia Eburru Campsite",
+            "name:en": "Loldia Eburru Campsite",
+            "tourism": "camp_site",
+            "website": "https://www.loldia-eburru.com/"
+        },
+        "latitude": -0.6713,
+        "longitude": 36.2705,
+        "name": "Loldia Eburru Campsite"
+    },
+    {
+        "metadata": {
+            "caravans": "yes",
+            "name": "Enkerere Picnic and Camping Site",
+            "operator": "James (0713255232)",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2432,
+        "longitude": 34.9877,
+        "name": "Enkerere Picnic and Camping Site"
+    },
+    {
+        "metadata": {
+            "addr:housenumber": "+254707721269",
+            "addr:postcode": "30300",
+            "addr:street": "E243",
+            "capacity:caravans": "9",
+            "caravans": "yes",
+            "charge": "10 USD",
+            "fee": "yes",
+            "internet_access": "wlan",
+            "name": "Lago Western Farm & Birding Spot",
+            "opening_hours": "24/7",
+            "payment:cash": "yes",
+            "phone": "+254707721269",
+            "static_caravans": "yes",
+            "tents": "no",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.207,
+        "longitude": 34.9341,
+        "name": "Lago Western Farm & Birding Spot"
+    },
+    {
+        "metadata": {
+            "access": "private",
+            "name": "Porini campsite",
+            "operator": "Ragati",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3541,
+        "longitude": 37.1672,
+        "name": "Porini campsite"
+    },
+    {
+        "metadata": {
+            "name": "Nyati safari camp",
+            "tourism": "camp_site",
+            "website": "https://www.nyatibushcamp.co.za/"
+        },
+        "latitude": -2.6966,
+        "longitude": 37.416,
+        "name": "Nyati safari camp"
+    },
+    {
+        "metadata": {
+            "name": "Nyati Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7224,
+        "longitude": 37.4152,
+        "name": "Nyati Camp"
+    },
+    {
+        "metadata": {
+            "name": "Maralal Safari Lodge",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.08,
+        "longitude": 36.6877,
+        "name": "Maralal Safari Lodge"
+    },
+    {
+        "metadata": {
+            "name": "Ona Campsite",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.5336,
+        "longitude": 36.8174,
+        "name": "Ona Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Tuum",
+            "name": "S. A. A. Camp",
+            "phone": "‪+254 727 385943‬",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.1454,
+        "longitude": 36.7746,
+        "name": "S. A. A. Camp"
+    },
+    {
+        "metadata": {
+            "name": "Catholic mission campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.3022,
+        "longitude": 37.0301,
+        "name": "Catholic mission campsite"
+    },
+    {
+        "metadata": {
+            "name": "Rocodoni Two Campsite (Sibiloi NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.6797,
+        "longitude": 36.2916,
+        "name": "Rocodoni Two Campsite (Sibiloi NP)"
+    },
+    {
+        "metadata": {
+            "alt_name": "Acacia Camp",
+            "name": "Camp Turkana",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.642,
+        "longitude": 36.219,
+        "name": "Camp Turkana"
+    },
+    {
+        "metadata": {
+            "name": "Mara Kimana Camp",
+            "tourism": "camp_site",
+            "website": "http://www.marakimanacamp.co.ke/"
+        },
+        "latitude": -1.5287,
+        "longitude": 35.3516,
+        "name": "Mara Kimana Camp"
+    },
+    {
+        "metadata": {
+            "name": "Ragati Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3527,
+        "longitude": 37.1679,
+        "name": "Ragati Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Ragati Campsite, Ragati Conservancy Laikipia",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3527,
+        "longitude": 37.1679,
+        "name": "Ragati Campsite, Ragati Conservancy Laikipia"
+    },
+    {
+        "metadata": {
+            "name": "Porini Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3541,
+        "longitude": 37.1672,
+        "name": "Porini Campsite"
+    },
+    {
+        "metadata": {
+            "addr:county": "Taita Taveta",
+            "addr:location": "Voi",
+            "name": "Tsavo Park Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3827,
+        "longitude": 38.5728,
+        "name": "Tsavo Park Camp"
+    },
+    {
+        "metadata": {
+            "name": "Karlas Campsite (Mount Kulal Biosphere Reserve)",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.6578,
+        "longitude": 36.9362,
+        "name": "Karlas Campsite (Mount Kulal Biosphere Reserve)"
+    },
+    {
+        "metadata": {
+            "name": "Nkare Naibor Campsite (Ngilai Wildlife Community Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.1718,
+        "longitude": 37.3174,
+        "name": "Nkare Naibor Campsite (Ngilai Wildlife Community Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Camp Nest",
+            "phone": "+254722 339663",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.1241,
+        "longitude": 36.924,
+        "name": "Camp Nest"
+    },
+    {
+        "metadata": {
+            "name": "Hyrax Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.0955,
+        "longitude": 37.2285,
+        "name": "Hyrax Camp"
+    },
+    {
+        "metadata": {
+            "name": "Supuko Enararayok Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.64,
+        "longitude": 36.9267,
+        "name": "Supuko Enararayok Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Simba Tarn Campsite Mt Kenya",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.149,
+        "longitude": 37.3229,
+        "name": "Simba Tarn Campsite Mt Kenya"
+    },
+    {
+        "metadata": {
+            "name": "Ahmed Public Campsite (Marsabit NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.32,
+        "longitude": 37.9868,
+        "name": "Ahmed Public Campsite (Marsabit NP)"
+    },
+    {
+        "metadata": {
+            "name": "Abdul Public Campsite (Marsabit NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.3207,
+        "longitude": 37.993,
+        "name": "Abdul Public Campsite (Marsabit NP)"
+    },
+    {
+        "metadata": {
+            "name": "Kampi ya Ndege Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.8071,
+        "longitude": 36.0519,
+        "name": "Kampi ya Ndege Campsite"
+    },
+    {
+        "metadata": {
+            "addr:street": "Ololaimutiek Village, Keekorok",
+            "email": "info@simba-oryx.ch",
+            "internet_access": "wlan",
+            "name": "Simba & Oryx Nature Camp",
+            "tourism": "camp_site",
+            "website": "https://simba-oryx.ch/"
+        },
+        "latitude": -1.63,
+        "longitude": 35.375,
+        "name": "Simba & Oryx Nature Camp"
+    },
+    {
+        "metadata": {
+            "addr:street": "Kimana, Road, Amboseli, Kenya",
+            "name": "Oilepo Amboseli",
+            "phone": "+254 748 258407",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7324,
+        "longitude": 37.3987,
+        "name": "Oilepo Amboseli"
+    },
+    {
+        "metadata": {
+            "name": "Galana Special Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.0495,
+        "longitude": 38.7758,
+        "name": "Galana Special Campsite"
+    },
+    {
+        "metadata": {
+            "name": "KiliHills Sanctuary Cottages & Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.9192,
+        "longitude": 37.5943,
+        "name": "KiliHills Sanctuary Cottages & Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Mango Tree Campsite",
+            "phone": "+254 721 365768",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.433,
+        "longitude": 38.5524,
+        "name": "Mango Tree Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Boma Simba Safari Lodge",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.3641,
+        "longitude": 38.5827,
+        "name": "Boma Simba Safari Lodge"
+    },
+    {
+        "metadata": {
+            "caravans": "yes",
+            "dog": "yes",
+            "internet_access": "no",
+            "name": "Kasigau Base Camp",
+            "static_caravans": "no",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.7946,
+        "longitude": 38.6459,
+        "name": "Kasigau Base Camp"
+    },
+    {
+        "metadata": {
+            "name": "Selenkay Safari Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.206,
+        "longitude": 37.2347,
+        "name": "Selenkay Safari Camp"
+    },
+    {
+        "metadata": {
+            "name": "Kampi ya Chuma",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1216,
+        "longitude": 38.2227,
+        "name": "Kampi ya Chuma"
+    },
+    {
+        "metadata": {
+            "name": "Rojuero Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1221,
+        "longitude": 38.2142,
+        "name": "Rojuero Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Chesumot Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3034,
+        "longitude": 35.3778,
+        "name": "Chesumot Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Rusinga Island Lodge (Camping Area)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4122,
+        "longitude": 34.1413,
+        "name": "Rusinga Island Lodge (Camping Area)"
+    },
+    {
+        "metadata": {
+            "name": "Sangare Conservancy Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.305,
+        "longitude": 36.9695,
+        "name": "Sangare Conservancy Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Shimba Hills Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.2151,
+        "longitude": 39.4512,
+        "name": "Shimba Hills Public Campsite"
+    },
+    {
+        "metadata": {
+            "amenity": "camps",
+            "name": "3 Peaks Campsite, Taita",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.4192,
+        "longitude": 38.3583,
+        "name": "3 Peaks Campsite, Taita"
+    },
+    {
+        "metadata": {
+            "name": "Professional Campsite (Shimba Hills NR)",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.2468,
+        "longitude": 39.4294,
+        "name": "Professional Campsite (Shimba Hills NR)"
+    },
+    {
+        "metadata": {
+            "name": "KiliHills Sanctuary Cottages & Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.9191,
+        "longitude": 37.5944,
+        "name": "KiliHills Sanctuary Cottages & Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Word of Life Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.2885,
+        "longitude": 39.5902,
+        "name": "Word of Life Campsite"
+    },
+    {
+        "metadata": {
+            "name": "KWS Kisite Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.6464,
+        "longitude": 39.377,
+        "name": "KWS Kisite Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Nyati Private Campsite (Ruma NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.652,
+        "longitude": 34.3237,
+        "name": "Nyati Private Campsite (Ruma NP)"
+    },
+    {
+        "metadata": {
+            "name": "Nashal Leng'ot Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3994,
+        "longitude": 36.853,
+        "name": "Nashal Leng'ot Camp"
+    },
+    {
+        "metadata": {
+            "name": "Kiserian Campsite #1 (Ngilai Wildlife Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.2067,
+        "longitude": 37.3102,
+        "name": "Kiserian Campsite #1 (Ngilai Wildlife Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Kiserian Campsite #2 (Ngilai Wildlife Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.2048,
+        "longitude": 37.3116,
+        "name": "Kiserian Campsite #2 (Ngilai Wildlife Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Gikai Hill 2771 m",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.6011,
+        "longitude": 36.771,
+        "name": "Gikai Hill 2771 m"
+    },
+    {
+        "metadata": {
+            "name": "Scott's Hide Campsite (Ol Pejeta)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.0035,
+        "longitude": 36.8777,
+        "name": "Scott's Hide Campsite (Ol Pejeta)"
+    },
+    {
+        "metadata": {
+            "name": "Gatamaiyu Forest Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.9738,
+        "longitude": 36.6968,
+        "name": "Gatamaiyu Forest Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Paradise Lost Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.1886,
+        "longitude": 36.8281,
+        "name": "Paradise Lost Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Waterfalls Inn Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.1206,
+        "longitude": 36.6931,
+        "name": "Waterfalls Inn Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kisoi Munyao Public Campsite (Mt. Kenya NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1758,
+        "longitude": 37.1468,
+        "name": "Kisoi Munyao Public Campsite (Mt. Kenya NP)"
+    },
+    {
+        "metadata": {
+            "name": "Met Station Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1705,
+        "longitude": 37.2135,
+        "name": "Met Station Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Taasi River Camping",
+            "phone": "+254 71 3777627",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4535,
+        "longitude": 36.9001,
+        "name": "Taasi River Camping"
+    },
+    {
+        "metadata": {
+            "name": "Nongabolo Safaris Eco Camp",
+            "phone": "+254 79 4263829",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4585,
+        "longitude": 36.8973,
+        "name": "Nongabolo Safaris Eco Camp"
+    },
+    {
+        "metadata": {
+            "backcountry": "yes",
+            "name": "Mama Bill Campsite",
+            "phone": "+254 71 3777627",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.453,
+        "longitude": 36.8862,
+        "name": "Mama Bill Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Rimpa Estates Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4337,
+        "longitude": 36.7287,
+        "name": "Rimpa Estates Campsite"
+    },
+    {
+        "metadata": {
+            "name": "PEC Nature Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4754,
+        "longitude": 36.6532,
+        "name": "PEC Nature Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Malewa Kanini Campsite & Cottage",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.5284,
+        "longitude": 36.4027,
+        "name": "Malewa Kanini Campsite & Cottage"
+    },
+    {
+        "metadata": {
+            "name": "Malewa Bundu Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.5278,
+        "longitude": 36.4038,
+        "name": "Malewa Bundu Camp"
+    },
+    {
+        "metadata": {
+            "name": "Malewa Bush Ventures Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.5322,
+        "longitude": 36.4009,
+        "name": "Malewa Bush Ventures Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Ewaso Enclave Conservancy Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.4021,
+        "longitude": 36.9172,
+        "name": "Ewaso Enclave Conservancy Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Big Dam Campsite (Mukutan Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.561,
+        "longitude": 36.3835,
+        "name": "Big Dam Campsite (Mukutan Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Big Dam Water Stage Campsite (Mukutan Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.556,
+        "longitude": 36.3784,
+        "name": "Big Dam Water Stage Campsite (Mukutan Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Lera Campsite (Mukutan Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.5981,
+        "longitude": 36.378,
+        "name": "Lera Campsite (Mukutan Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Dam Public Campsite (Mugie Conservancy)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7068,
+        "longitude": 36.598,
+        "name": "Dam Public Campsite (Mugie Conservancy)"
+    },
+    {
+        "metadata": {
+            "name": "Boji Dera Campsite, Shaba NR",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.7511,
+        "longitude": 37.9652,
+        "name": "Boji Dera Campsite, Shaba NR"
+    },
+    {
+        "metadata": {
+            "name": "Prince Charles special campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3683,
+        "longitude": 36.8621,
+        "name": "Prince Charles special campsite"
+    },
+    {
+        "metadata": {
+            "name": "Crocodile Campsite (Rimoi NR)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6427,
+        "longitude": 35.6173,
+        "name": "Crocodile Campsite (Rimoi NR)"
+    },
+    {
+        "metadata": {
+            "name": "The Royal Campsite (Kimng’ochoch Community Conservancy\n)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.3878,
+        "longitude": 35.7971,
+        "name": "The Royal Campsite (Kimng’ochoch Community Conservancy\n)"
+    },
+    {
+        "metadata": {
+            "name": "Tirinya Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.6719,
+        "longitude": 35.5154,
+        "name": "Tirinya Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Dikdik Public Campsite (South Turkana NR)",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.8407,
+        "longitude": 35.5598,
+        "name": "Dikdik Public Campsite (South Turkana NR)"
+    },
+    {
+        "metadata": {
+            "name": "Mtelo View Eco Lodge (Camping Area)",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.6138,
+        "longitude": 35.406,
+        "name": "Mtelo View Eco Lodge (Camping Area)"
+    },
+    {
+        "metadata": {
+            "name": "Gura River Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4978,
+        "longitude": 36.8376,
+        "name": "Gura River Camp"
+    },
+    {
+        "metadata": {
+            "name": "Camp Ndotto",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.7396,
+        "longitude": 37.2902,
+        "name": "Camp Ndotto"
+    },
+    {
+        "metadata": {
+            "name": "Saranto Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.8649,
+        "longitude": 37.5852,
+        "name": "Saranto Camp"
+    },
+    {
+        "metadata": {
+            "access": "yes",
+            "addr:city": "Kargi/South Horr ward",
+            "camp_site": "serviced",
+            "capacity:tents": "10",
+            "group_only": "yes",
+            "name": "Samburu Warriors Bible Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": 2.1152,
+        "longitude": 36.921,
+        "name": "Samburu Warriors Bible Camp"
+    },
+    {
+        "metadata": {
+            "name": "Entalata Sidai Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3904,
+        "longitude": 36.5916,
+        "name": "Entalata Sidai Campsite"
+    },
+    {
+        "metadata": {
+            "addr:city": "Diani Beach",
+            "addr:street": "Diani Beach Road",
+            "name": "Diani campsite and cottages",
+            "tourism": "camp_site"
+        },
+        "latitude": -4.3036,
+        "longitude": 39.5803,
+        "name": "Diani campsite and cottages"
+    },
+    {
+        "metadata": {
+            "name": "Flamingo Hill Camp",
+            "tourism": "camp_site",
+            "website": "https://www.flamingohillcamp.com/"
+        },
+        "latitude": -0.3151,
+        "longitude": 36.0724,
+        "name": "Flamingo Hill Camp"
+    },
+    {
+        "metadata": {
+            "area": "yes",
+            "barrier": "fence",
+            "fence_type": "chain_link",
+            "name": "Lasamu Camp",
+            "phone": "(+254) 0706-385 905",
+            "tourism": "camp_site",
+            "website": "https://lasamucamp.wordpress.com/"
+        },
+        "latitude": 1.7398,
+        "longitude": 37.2978,
+        "name": "Lasamu Camp"
+    },
+    {
+        "metadata": {
+            "name": "Isgargaro Women's Group Campsite",
+            "operator": "Isgargaro Women's Group",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.993,
+        "longitude": 37.9186,
+        "name": "Isgargaro Women's Group Campsite"
+    },
+    {
+        "metadata": {
+            "internet_access": "no",
+            "name": "Merigo Women's Group Campsite",
+            "operator": "Merigo Women's Group",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.9987,
+        "longitude": 37.9148,
+        "name": "Merigo Women's Group Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Kilima Safari Camp",
+            "operator": "Mada Hotels",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7239,
+        "longitude": 37.3828,
+        "name": "Kilima Safari Camp"
+    },
+    {
+        "metadata": {
+            "name": "Turaco Public Campsite (Oldonyo Sabuk NP)",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.1013,
+        "longitude": 37.2506,
+        "name": "Turaco Public Campsite (Oldonyo Sabuk NP)"
+    },
+    {
+        "metadata": {
+            "addr:city": "Nairobi/Karen/Hardy",
+            "landuse": "commercial",
+            "name": "Jungle Junction",
+            "note": "Motorbike Repair Shop Bikers Lodge Travellers Joint Travellers Info Source",
+            "operator": "Christoph Handschuh",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3624,
+        "longitude": 36.7401,
+        "name": "Jungle Junction"
+    },
+    {
+        "metadata": {
+            "caravans": "no",
+            "name": "Kayaba Scout Center",
+            "openfire": "yes",
+            "operator": "KENYA SCOUTS ASSOCIATION",
+            "scout": "yes",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4752,
+        "longitude": 37.0875,
+        "name": "Kayaba Scout Center"
+    },
+    {
+        "metadata": {
+            "caravans": "no",
+            "name": "Pigion Park",
+            "openfire": "yes",
+            "scout": "yes",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.5456,
+        "longitude": 37.0663,
+        "name": "Pigion Park"
+    },
+    {
+        "metadata": {
+            "caravans": "no",
+            "name": "Rowallan Scout Camp",
+            "openfire": "yes",
+            "operator": "KENYA SCOUTS ASSOCIATION",
+            "scout": "yes",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3123,
+        "longitude": 36.7676,
+        "name": "Rowallan Scout Camp"
+    },
+    {
+        "metadata": {
+            "name": "Punda Milias Nakuru Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.3655,
+        "longitude": 36.1731,
+        "name": "Punda Milias Nakuru Camp"
+    },
+    {
+        "metadata": {
+            "landuse": "residential",
+            "name": "Sand River Masai Mara",
+            "place": "locality",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.6212,
+        "longitude": 35.162,
+        "name": "Sand River Masai Mara"
+    },
+    {
+        "metadata": {
+            "caravans": "yes",
+            "check_date": "2024-12-24",
+            "drinking_water": "yes",
+            "landuse": "recreation_ground",
+            "name": "Camp Carnelley's",
+            "payment:cards": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "power_supply": "yes",
+            "tents": "yes",
+            "tourism": "camp_site",
+            "trucks": "yes",
+            "website": "https://campcarnelleys.com"
+        },
+        "latitude": -0.8274,
+        "longitude": 36.3384,
+        "name": "Camp Carnelley's"
+    },
+    {
+        "metadata": {
+            "addr:housenumber": "16 Muiri Lane, Nairobi",
+            "name": "Indaba Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.3393,
+        "longitude": 36.7644,
+        "name": "Indaba Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Chyulu Public Campsite (Tsavo West)",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.9014,
+        "longitude": 38.0384,
+        "name": "Chyulu Public Campsite (Tsavo West)"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "camp_site": "serviced",
+            "capacity:persons": "20",
+            "contact:mobile": "+254 723 362546",
+            "fee": "yes",
+            "name": "Netbon Kudu Campsite",
+            "operator": "Jeremiah Kobetbet",
+            "payment:mpesa": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.2645,
+        "longitude": 36.0463,
+        "name": "Netbon Kudu Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Lake Jipe Safari Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -3.599,
+        "longitude": 37.7818,
+        "name": "Lake Jipe Safari Camp"
+    },
+    {
+        "metadata": {
+            "access": "yes",
+            "fee": "yes",
+            "internet_access": "no",
+            "name": "Olorgesailie Bandas & Campsite",
+            "operator": "Olorgesailie, KWS",
+            "tourism": "camp_site",
+            "website": "https://www.museums.or.ke/olorgesailie/"
+        },
+        "latitude": -1.577,
+        "longitude": 36.4449,
+        "name": "Olorgesailie Bandas & Campsite"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "internet_access": "no",
+            "name": "Olololo Gate Public Campsite (Mara Triangle)",
+            "power_supply": "no",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.2607,
+        "longitude": 34.999,
+        "name": "Olololo Gate Public Campsite (Mara Triangle)"
+    },
+    {
+        "metadata": {
+            "group_only": "yes",
+            "name": "DON BOSCO YOUTH CENTRE",
+            "operator": "From UNCHR MAP",
+            "tourism": "camp_site"
+        },
+        "latitude": 3.738,
+        "longitude": 34.8386,
+        "name": "DON BOSCO YOUTH CENTRE"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "capacity:caravans": "0",
+            "charge": "Dependent on residential status",
+            "fee": "yes",
+            "name": "Chorlim Campsite",
+            "operator": "Kenya Wildlife Service",
+            "payment:credit_cards": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 1.0413,
+        "longitude": 34.7925,
+        "name": "Chorlim Campsite"
+    },
+    {
+        "metadata": {
+            "backcountry": "no",
+            "contact:email": "bushbabycamping@gmail.com",
+            "name": "Bush Baby Campsite",
+            "nudism": "no",
+            "phone": "+254 72 0322113",
+            "shower": "yes",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site",
+            "website": "https://www.bushbabycamping.com/"
+        },
+        "latitude": 0.6142,
+        "longitude": 36.021,
+        "name": "Bush Baby Campsite"
+    },
+    {
+        "metadata": {
+            "group_only": "yes",
+            "name": "Kambi ya Simba",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.1098,
+        "longitude": 38.7618,
+        "name": "Kambi ya Simba"
+    },
+    {
+        "metadata": {
+            "name": "Bamboo Garden",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.9797,
+        "longitude": 36.6401,
+        "name": "Bamboo Garden"
+    },
+    {
+        "metadata": {
+            "addr:city": "Kisumu",
+            "addr:street": "Kisumu-Busia Road",
+            "building": "yes",
+            "name": "Central Kisumu Chief",
+            "source": "microsoft/BuildingFootprints",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.0765,
+        "longitude": 34.6983,
+        "name": "Central Kisumu Chief"
+    },
+    {
+        "metadata": {
+            "backcountry": "yes",
+            "name": "Olkoroi_Camp",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.9556,
+        "longitude": 35.821,
+        "name": "Olkoroi_Camp"
+    },
+    {
+        "metadata": {
+            "access": "private",
+            "name": "Lukenya Hills Camping Site",
+            "tourism": "camp_site"
+        },
+        "latitude": -1.4616,
+        "longitude": 37.0764,
+        "name": "Lukenya Hills Camping Site"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "backcountry": "yes",
+            "capacity:persons": "50",
+            "capacity:tents": "1, 3, 4",
+            "caravans": "no",
+            "drinking_water": "yes",
+            "fee": "yes",
+            "mobile": "+254 114 511 433",
+            "name": "Paul's Campsite Kongoni",
+            "openfire": "yes",
+            "payment:mpesa": "yes",
+            "picnic_table": "yes",
+            "power_supply": "yes",
+            "reservation": "yes",
+            "shower": "yes",
+            "tents": "yes",
+            "toilets": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.8147,
+        "longitude": 36.2552,
+        "name": "Paul's Campsite Kongoni"
+    },
+    {
+        "metadata": {
+            "access": "yes",
+            "addr:city": "Mogotio, Baringo County",
+            "capacity:persons": "0",
+            "fee": "yes",
+            "name": "Kapicha Community Ecoutourism & Conservation Centre",
+            "payment:mobilepay": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.187,
+        "longitude": 36.1351,
+        "name": "Kapicha Community Ecoutourism & Conservation Centre"
+    },
+    {
+        "metadata": {
+            "camp_site": "serviced",
+            "caravans": "no",
+            "fee": "yes",
+            "name": "ONTEPESSI CAMP",
+            "tents": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": -2.7563,
+        "longitude": 37.5414,
+        "name": "ONTEPESSI CAMP"
+    },
+    {
+        "metadata": {
+            "access": "yes",
+            "camp_site": "basic",
+            "capacity:persons": "20",
+            "capacity:tents": "10",
+            "fee": "yes",
+            "name": "Little Fig Tree Campsite",
+            "operator": "Baringo County Government",
+            "payment:mpesa": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.1819,
+        "longitude": 36.1093,
+        "name": "Little Fig Tree Campsite"
+    },
+    {
+        "metadata": {
+            "access": "customers",
+            "camp_site": "standard",
+            "capacity:tents": "5",
+            "name": "Korosin Campsite",
+            "payment:mpesa": "yes",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.674,
+        "longitude": 36.0291,
+        "name": "Korosin Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Reedbuck Public Campsite 2",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.4805,
+        "longitude": 36.7293,
+        "name": "Reedbuck Public Campsite 2"
+    },
+    {
+        "metadata": {
+            "name": "Reedbuck Public Campsite",
+            "tourism": "camp_site"
+        },
+        "latitude": -0.481,
+        "longitude": 36.7298,
+        "name": "Reedbuck Public Campsite"
+    },
+    {
+        "metadata": {
+            "name": "Spoonbill Camp Site (Ol Pejeta)",
+            "tourism": "camp_site"
+        },
+        "latitude": 0.0175,
+        "longitude": 36.9325,
+        "name": "Spoonbill Camp Site (Ol Pejeta)"
+    }
+]
