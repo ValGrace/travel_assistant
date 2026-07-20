@@ -59,18 +59,55 @@ def record_chunks(record: Dict[str, Any], source: str = "", rec_index: int = 0) 
 
     chunks: List[Tuple[str, Dict[str, Any]]] = []
 
-    # If record contains 'accommodations' list, split by item
-    if isinstance(record.get("accommodations"), list) and record["accommodations"]:
-        for idx, acc in enumerate(record["accommodations"], start=1):
+    # If record contains accommodations data, split it into meaningful chunks
+    accommodations_key = None
+    for key in ("accommodations", "accomodations"):
+        if key in record:
+            accommodations_key = key
+            break
+
+    if accommodations_key is not None:
+        accommodations_value = record[accommodations_key]
+        if isinstance(accommodations_value, list) and accommodations_value:
+            for idx, acc in enumerate(accommodations_value, start=1):
+                lines = header_lines.copy()
+                lines.append("Accommodation:")
+                lines.extend(flatten_json(acc, prefix="accommodation"))
+                text = "\n".join(lines)
+                metadata = {
+                    "source": os.path.basename(source) if source else None,
+                    "record_index": rec_index,
+                    "chunk_type": "accommodation",
+                    "accommodation_index": idx,
+                    "hotel": name,
+                }
+                chunks.append((text, metadata))
+        elif isinstance(accommodations_value, dict) and accommodations_value:
+            for idx, (acc_name, acc_value) in enumerate(accommodations_value.items(), start=1):
+                lines = header_lines.copy()
+                lines.append("Accommodation:")
+                lines.append(f"accommodation.name: {acc_name}")
+                lines.append(f"accommodation.url: {acc_value}")
+                text = "\n".join(lines)
+                metadata = {
+                    "source": os.path.basename(source) if source else None,
+                    "record_index": rec_index,
+                    "chunk_type": "accommodation",
+                    "accommodation_index": idx,
+                    "accommodation_name": acc_name,
+                    "hotel": name,
+                }
+                chunks.append((text, metadata))
+        else:
+            # accommodations key exists but is empty or unsupported; emit a full record chunk
             lines = header_lines.copy()
-            lines.append("Accommodation:")
-            lines.extend(flatten_json(acc, prefix="accommodation"))
+            rest = {k: v for k, v in record.items() if k != "metadata"}
+            lines.extend(flatten_json(rest, prefix="record"))
             text = "\n".join(lines)
             metadata = {
                 "source": os.path.basename(source) if source else None,
                 "record_index": rec_index,
-                "chunk_type": "accommodation",
-                "accommodation_index": idx,
+                "chunk_type": "record",
                 "hotel": name,
             }
             chunks.append((text, metadata))
