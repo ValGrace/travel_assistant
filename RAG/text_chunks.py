@@ -13,8 +13,8 @@ class TextChunks:
     def load_and_chunk_data(self):
 
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=800,
-            chunk_overlap=200,
+            chunk_size=500,
+            chunk_overlap=50,
             separators=["\n\n"]
         )
         all_chunks = []
@@ -29,15 +29,3 @@ class TextChunks:
         print(f"Total chunks created: {len(all_chunks)}")
         return all_chunks
 
-if __name__ == "__main__":
-    files = [
-        "data/gold_data/parks.txt",
-        "data/gold_data/nairobi_hotels.txt",
-        "data/gold_data/magical_kenya.txt",
-        "data/gold_data/kenyan_hotels.txt",
-        "data/gold_data/kenyan_campsites.txt",
-        "data/gold_data/kws_prices.txt"
-    ]
-    chunky = TextChunks(files)
-    chunks = chunky.load_and_chunk_data()
-    chunks
