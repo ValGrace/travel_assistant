@@ -13,8 +13,8 @@ class TextChunks:
     def load_and_chunk_data(self):
 
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500,
-            chunk_overlap=50,
+            chunk_size=700,
+            chunk_overlap=100,
             separators=["\n\n"]
         )
         all_chunks = []

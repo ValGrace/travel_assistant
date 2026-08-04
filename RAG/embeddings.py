@@ -3,7 +3,6 @@ from sentence_transformers import SentenceTransformer
 from langchain_community.vectorstores import Chroma
 from langchain.embeddings.base import Embeddings
 
-
 class SentenceTransformerEmbeddings(Embeddings):
     """Adapter so SentenceTransformer satisfies LangChain's Embeddings interface."""
 
@@ -20,7 +19,7 @@ class SentenceTransformerEmbeddings(Embeddings):
 class ContextEmbed:
     def __init__(self, files):
         self.files = files
-        self.embedding_fn = SentenceTransformerEmbeddings('bert-base-nli-mean-tokens')
+        self.embedding_fn = SentenceTransformerEmbeddings('all-mpnet-base-v2')
 
     def load_chunks(self):
         chunky = TextChunks(self.files)
@@ -36,7 +35,7 @@ class ContextEmbed:
         )
         vector_store.persist()
         return vector_store
-
+    
 
 if __name__ == "__main__":
     files = [
@@ -51,3 +50,4 @@ if __name__ == "__main__":
     embeds.load_chunks()
     stored_vectors = embeds.create_vectorstore()
     stored_vectors
+ 
