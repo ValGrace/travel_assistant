@@ -9,9 +9,12 @@ uv.lock
 
 # Virtual environments
 .venv
-
 # Databases
 *.db
 
 # Misc
 .vscode
+
+# Secrets
+.env 
+.env.example
