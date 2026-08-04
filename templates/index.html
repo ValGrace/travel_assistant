@@ -3,23 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Travel Africa RAG Template</title>
+  <title>Travel Kenya</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../static/css/styles.css">
+  <link rel="stylesheet" href="/static/css/styles.css">
 </head>
 <body>
-  <main class="hero-shell" aria-label="Travel Africa trip planning assistant landing page">
+  <main class="hero-shell" aria-label="Travel Africa trip planning assistant landing page" style="--bg-image:url('/static/assets/elephant.jpg')">
     <header class="site-header">
-      <a class="brand" href="#" aria-label="Travel Africa home">Travel Africa<span></span></a>
+      <a class="brand" href="#" aria-label="Travel Africa home">Voyager<span></span></a>
 
-      <nav class="top-actions" aria-label="User preferences">
-        <button class="pill-control" type="button">KSh <span aria-hidden="true">⌄</span></button>
-        <button class="pill-control lang" type="button"><span class="flag" aria-hidden="true"></span> EN <span aria-hidden="true">⌄</span></button>
-        <button class="profile-control" type="button" aria-label="Open profile menu">
-          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80" alt="Smiling traveler profile">
-          <span aria-hidden="true">⌄</span>
+      <nav class="nav-tabs" aria-label="Browse by category" role="tablist">
+        <button class="nav-tab active" type="button" role="tab" aria-selected="true">
+          <svg class="nav-tab-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M3 18v-7a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12 13h7a2 2 0 0 1 2 2v3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M3 18v2M21 18v2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            <circle cx="6.5" cy="10.5" r="1.3" fill="currentColor"/>
+          </svg>
+          Accommodation
+        </button>
+        <button class="nav-tab" type="button" role="tab" aria-selected="false">
+          <span class="nav-tab-dot" aria-hidden="true">•</span> Safaris
+        </button>
+        <button class="nav-tab" type="button" role="tab" aria-selected="false">
+          <span class="nav-tab-dot" aria-hidden="true">•</span> Hidden Gems
         </button>
       </nav>
     </header>
@@ -33,7 +42,7 @@
 
         <p>Discover Kenya &amp; East Africa with live prices<br>and expert trip planning.</p>
 
-        <form class="prompt-card" action="#" method="get" aria-label="Trip planning prompt">
+        <form class="prompt-card" id="prompt-form" action="#" method="post" aria-label="Trip planning prompt">
           <label class="sr-only" for="travel-prompt">Describe your ideal trip</label>
           <input id="travel-prompt" name="prompt" type="text" value="6 days in Kenya: safari, coast, culture">
           <div class="prompt-tools" aria-label="Prompt tools">
@@ -42,6 +51,8 @@
             <button class="send" type="submit" aria-label="Send prompt">➤</button>
           </div>
         </form>
+
+        <div id="results-container" class="results-container"></div>
 
         <div class="quick-actions" aria-label="Suggested prompts">
           <button type="button"><span aria-hidden="true">▣</span>Create a new trip</button>
@@ -53,18 +64,231 @@
         <a class="help-link" href="#features">See how I can help you <span aria-hidden="true">↓</span></a>
       </div>
 
-      <div class="photo-collage" aria-label="Kenya and East Africa destination collage">
-        <figure class="blob blob-safari">
-          <img src="https://images.unsplash.com/photo-1547970810-dc1eac37d174?auto=format&fit=crop&w=1000&q=85" alt="Elephants walking across an East African savanna with a mountain in the distance">
-        </figure>
-        <figure class="blob blob-coast">
-          <img src="https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=900&q=85" alt="Turquoise East African coastline with palms and a beach cottage">
-        </figure>
-        <figure class="blob blob-lake">
-          <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=85" alt="Blue lake surrounded by lush green hills and bright flowers">
-        </figure>
+      <div class="destination-rail" aria-label="Kenya and East Africa destination picks" role="listbox">
+        <article class="dest-card" data-bg="/static/assets/flamingo.jpg" tabindex="0" role="option" aria-selected="false">
+          <img src="/static/assets/flamingo.jpg" alt="Thousands of flamingos wading in Lake Nakuru">
+          <span class="bookmark" aria-hidden="true">🔖</span>
+          <span class="dest-title">Lake Nakuru</span>
+        </article>
+
+        <article class="dest-card" data-bg="/static/assets/diani.jpg" tabindex="0" role="option" aria-selected="false">
+          <img src="/static/assets/diani.jpg" alt="Aerial view of white sand and turquoise water at Diani Beach">
+          <span class="bookmark" aria-hidden="true">🔖</span>
+          <span class="dest-title">Diani</span>
+        </article>
+
+        <article class="dest-card active" data-bg="/static/assets/elephant.jpg" tabindex="0" role="option" aria-selected="true">
+          <img src="/static/assets/elephant.jpg" alt="Elephants walking beneath an acacia tree at sunset">
+          <span class="bookmark" aria-hidden="true">🔖</span>
+          <span class="dest-title">The Big Five</span>
+        </article>
+
+        <article class="dest-card" data-bg="/static/assets/wildebeesr.jpg" tabindex="0" role="option" aria-selected="false">
+          <img src="/static/assets/wildebeesr.jpg" alt="Wildebeest herd crossing a river during the migration">
+          <span class="bookmark" aria-hidden="true">🔖</span>
+          <span class="dest-title">Wildebeest Migration</span>
+        </article>
       </div>
     </section>
   </main>
+
+  <!-- Structured trip results render here, as separate cards, once /query responds -->
+  <section id="trip-results" class="trip-results" aria-live="polite"></section>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const form = document.getElementById("prompt-form");
+      const input = document.getElementById("travel-prompt");
+      const resultsContainer = document.getElementById("results-container");
+      const tripResults = document.getElementById("trip-results");
+      const heroShell = document.querySelector(".hero-shell");
+      const cards = document.querySelectorAll(".dest-card");
+      const navTabs = document.querySelectorAll(".nav-tab");
+
+      navTabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          navTabs.forEach((t) => {
+            t.classList.remove("active");
+            t.setAttribute("aria-selected", "false");
+          });
+          tab.classList.add("active");
+          tab.setAttribute("aria-selected", "true");
+        });
+      });
+
+      // Card click / keyboard select -> swap hero background photo
+      cards.forEach((card) => {
+        const selectCard = () => {
+          cards.forEach((c) => {
+            c.classList.remove("active");
+            c.setAttribute("aria-selected", "false");
+          });
+          card.classList.add("active");
+          card.setAttribute("aria-selected", "true");
+          heroShell.style.setProperty("--bg-image", `url('${card.dataset.bg}')`);
+        };
+        card.addEventListener("click", selectCard);
+        card.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            selectCard();
+          }
+        });
+      });
+
+      // Escape any text pulled from the model before injecting it as HTML
+      const esc = (str) =>
+        String(str ?? "").replace(/[&<>"']/g, (c) => ({
+          "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+        }[c]));
+
+      function renderTripResults(data) {
+        const missing = data.missing_info || [];
+        const highlights = data.highlights || [];
+        const itinerary = data.itinerary || [];
+        const followUps = data.follow_up_questions || [];
+
+        const missingHtml = missing.length
+          ? `
+            <div class="notice-card">
+              <strong>Not covered in our current data:</strong>
+              <div class="tag-row">
+                ${missing.map((m) => `<span class="tag tag-wine">${esc(m)}</span>`).join("")}
+              </div>
+            </div>
+          `
+          : "";
+
+        const highlightsHtml = highlights.length
+          ? `
+            <h2 class="results-heading">Highlights for you</h2>
+            <div class="card-grid">
+              ${highlights
+                .map(
+                  (h) => `
+                <article class="highlight-card">
+                  <h3>${esc(h.title)}</h3>
+                  <p>${esc(h.description)}</p>
+                </article>
+              `
+                )
+                .join("")}
+            </div>
+          `
+          : "";
+
+        const itineraryHtml = itinerary.length
+          ? `
+            <h2 class="results-heading">Your day-by-day plan</h2>
+            <div class="card-grid">
+              ${itinerary
+                .map((day) => {
+                  const accommodations = day.accommodation_options || [];
+                  const costKnown =
+                    day.cost && !/not available/i.test(day.cost);
+                  return `
+                <article class="day-card">
+                  <div class="day-card-head">
+                    <span class="day-badge">${esc(day.day)}</span>
+                    <h3>${esc(day.title)}</h3>
+                  </div>
+                  <p>${esc(day.activity)}</p>
+                  ${
+                    accommodations.length
+                      ? `
+                    <div class="tag-row">
+                      ${accommodations
+                        .map((a) => `<span class="tag tag-lime">${esc(a)}</span>`)
+                        .join("")}
+                    </div>
+                  `
+                      : ""
+                  }
+                  <span class="tag ${costKnown ? "tag-sage" : "tag-muted"}">${esc(day.cost)}</span>
+                </article>
+              `;
+                })
+                .join("")}
+            </div>
+          `
+          : "";
+
+        const followUpsHtml = followUps.length
+          ? `
+            <h2 class="results-heading">Help me narrow it down</h2>
+            <div class="quick-actions follow-up-actions">
+              ${followUps
+                .map(
+                  (q) =>
+                    `<button type="button" class="follow-up-btn">${esc(q)}</button>`
+                )
+                .join("")}
+            </div>
+          `
+          : "";
+
+        tripResults.innerHTML = `
+          <div class="trip-results-inner">
+            ${data.intro ? `<p class="trip-intro">${esc(data.intro)}</p>` : ""}
+            ${missingHtml}
+            ${highlightsHtml}
+            ${itineraryHtml}
+            ${followUpsHtml}
+          </div>
+        `;
+
+        tripResults.querySelectorAll(".follow-up-btn").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            input.value = btn.textContent;
+            form.requestSubmit();
+          });
+        });
+
+        tripResults.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+
+        const question = input.value.trim();
+        if (!question) return;
+
+        resultsContainer.innerHTML = `
+          <div class="result-card" style="text-align: center;">
+            <div class="loading-spinner"></div>
+            <p style="margin-top: 15px; color: var(--muted);">Finding the best answers for your trip...</p>
+          </div>
+        `;
+        tripResults.innerHTML = "";
+
+        try {
+          const response = await fetch("/query", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ question })
+          });
+
+          if (!response.ok) {
+            throw new Error(`Server error: ${response.status}`);
+          }
+
+          const data = await response.json();
+          resultsContainer.innerHTML = "";
+          renderTripResults(data);
+
+        } catch (error) {
+          console.error("Error fetching data:", error);
+          resultsContainer.innerHTML = `
+            <div class="result-card" style="border-left: 4px solid #70161e;">
+              <h3 style="color: #70161e;">Oops! Something went wrong.</h3>
+              <p>We couldn't connect to the server. Please try again later.</p>
+            </div>
+          `;
+        }
+      });
+    });
+  </script>
 </body>
 </html>
