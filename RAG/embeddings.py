@@ -1,4 +1,4 @@
-from text_chunks import TextChunks
+from RAG.text_chunks import TextChunks
 from sentence_transformers import SentenceTransformer
 from langchain_community.vectorstores import Chroma
 from langchain.embeddings.base import Embeddings
