@@ -1,0 +1,12 @@
+chromadb
+fastapi
+google-genai
+jinja2
+langchain
+langchain-community
+pandas
+python-dotenv
+pydantic
+requests
+sentence-transformers
+uvicorn
