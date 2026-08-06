@@ -18,7 +18,7 @@ async def lifespan(app: FastAPI):
     embedding_fn = SentenceTransformerEmbeddings('all-mpnet-base-v2')
     vector_store = Chroma(
         collection_name="kenyan-tourism-collection",
-        embedding_function=embedding_fn,
+        # embedding_function=embedding_fn,
         persist_directory="data/chroma_db",
     )
     app.state.retriever = RetrieveContext(vector_store=vector_store)
